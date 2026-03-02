@@ -1,0 +1,36 @@
+---
+title: "Das Rheingold"
+author: "Richard Wagner"
+date: 2025-09-27
+datum: "9. 3. 2026" # as string for future date
+weight: 20250927 
+place: "Staatsoper Unter den Linden, Berlin"
+orchester: "Staatskapelle Berlin"
+conductor: "Christian Thielemann"
+inscenation: "Režie: "
+soloists: ""
+description: ""
+tags: ["Opera", "Wagner", "Staatsoper", "Rheingold"]
+cover:
+    image: "images/cover.jpg"
+    alt: ""
+    caption: ""
+    relative: false
+showToc: false
+TocOpen: false
+hidemeta: false
+comments: true
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+---
+
+|   |  |
+|:--|:--|
+
+![](images/photo-1.jpg)
