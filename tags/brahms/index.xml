@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Brahms on Walse</title>
-    <link>http://localhost:1313/tags/brahms/</link>
+    <link>https://walse.cz/tags/brahms/</link>
     <description>Recent content in Brahms on Walse</description>
     <image>
       <title>Walse</title>
-      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.157.0</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/brahms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://walse.cz/tags/brahms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ein Deutsches Requiem</title>
-      <link>http://localhost:1313/koncert/20260125-brahms-deutshes-requiem/</link>
+      <link>https://walse.cz/koncert/20260125-brahms-deutshes-requiem/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/koncert/20260125-brahms-deutshes-requiem/</guid>
+      <guid>https://walse.cz/koncert/20260125-brahms-deutshes-requiem/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -44,7 +44,7 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260125-brahms-deutshes-requiem/images/brahms-2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260125-brahms-deutshes-requiem/images/brahms-2.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;german-and-english-text&#34;&gt;German and English text&lt;/h3&gt;
 &lt;p&gt;The German text below was selected by Brahms from the Lutheran Bible. The English is from the King James Bible.&lt;/p&gt;
 &lt;table&gt;

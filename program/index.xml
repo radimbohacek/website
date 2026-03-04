@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>program on Walse</title>
-    <link>http://localhost:1313/program/</link>
+    <link>https://walse.cz/program/</link>
     <description>Recent content in program on Walse</description>
     <image>
       <title>Walse</title>
-      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.157.0</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/program/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://walse.cz/program/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rienzi</title>
-      <link>http://localhost:1313/program/20260803-bayreuth-rienzi/</link>
+      <link>https://walse.cz/program/20260803-bayreuth-rienzi/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260803-bayreuth-rienzi/</guid>
+      <guid>https://walse.cz/program/20260803-bayreuth-rienzi/</guid>
       <description>Richard Wagner: 
  Rienzi&lt;br&gt;
  Bayreuther Festspiele.
@@ -33,9 +33,9 @@
     </item>
     <item>
       <title>Česká filharmonie</title>
-      <link>http://localhost:1313/program/20260602-cf-hannigan/</link>
+      <link>https://walse.cz/program/20260602-cf-hannigan/</link>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260602-cf-hannigan/</guid>
+      <guid>https://walse.cz/program/20260602-cf-hannigan/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -62,9 +62,9 @@
     </item>
     <item>
       <title>Luigi Nono mezi aeroplány</title>
-      <link>http://localhost:1313/program/20260601-cf-ntm/</link>
+      <link>https://walse.cz/program/20260601-cf-ntm/</link>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260601-cf-ntm/</guid>
+      <guid>https://walse.cz/program/20260601-cf-ntm/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -89,16 +89,16 @@
     </item>
     <item>
       <title>Barbara Hannigan Masterclass</title>
-      <link>http://localhost:1313/program/20260531-hannigan-masterclass/</link>
+      <link>https://walse.cz/program/20260531-hannigan-masterclass/</link>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260531-hannigan-masterclass/</guid>
+      <guid>https://walse.cz/program/20260531-hannigan-masterclass/</guid>
       <description></description>
     </item>
     <item>
       <title>Rusalka</title>
-      <link>http://localhost:1313/program/20260530-nd-rusalka/</link>
+      <link>https://walse.cz/program/20260530-nd-rusalka/</link>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260530-nd-rusalka/</guid>
+      <guid>https://walse.cz/program/20260530-nd-rusalka/</guid>
       <description>Antonín Dvořák: 
  Rusalka&lt;br&gt;
  ND.
@@ -192,16 +192,16 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-2.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Die schweigsame Frau</title>
-      <link>http://localhost:1313/program/20260525-schweigsame-frau/</link>
+      <link>https://walse.cz/program/20260525-schweigsame-frau/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260525-schweigsame-frau/</guid>
+      <guid>https://walse.cz/program/20260525-schweigsame-frau/</guid>
       <description>Richard Strauss: 
  Die schweigsame Frau&lt;br&gt;
  Staatsoper Unter den Linden.
@@ -217,9 +217,9 @@
     </item>
     <item>
       <title>Barbara Hannigan a Belcea Quartet</title>
-      <link>http://localhost:1313/program/20260524-hannigan/</link>
+      <link>https://walse.cz/program/20260524-hannigan/</link>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260524-hannigan/</guid>
+      <guid>https://walse.cz/program/20260524-hannigan/</guid>
       <description>&lt;p&gt;Program&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Anton Webern: Pět vět op. 5&lt;/li&gt;
@@ -240,9 +240,9 @@
     </item>
     <item>
       <title>Česká filharmonie</title>
-      <link>http://localhost:1313/program/20260519-cf-hrusa/</link>
+      <link>https://walse.cz/program/20260519-cf-hrusa/</link>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260519-cf-hrusa/</guid>
+      <guid>https://walse.cz/program/20260519-cf-hrusa/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -257,9 +257,9 @@
     </item>
     <item>
       <title>Parsifal</title>
-      <link>http://localhost:1313/program/20260331-semper-parsifal/</link>
+      <link>https://walse.cz/program/20260331-semper-parsifal/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260331-semper-parsifal/</guid>
+      <guid>https://walse.cz/program/20260331-semper-parsifal/</guid>
       <description>Richard Wagner: 
  Parsifal&lt;br&gt;
  Semperoper Dresdner.
@@ -347,16 +347,16 @@
     </item>
     <item>
       <title>Der Rosenkavalier</title>
-      <link>http://localhost:1313/program/20260328-rosenkavalier/</link>
+      <link>https://walse.cz/program/20260328-rosenkavalier/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260328-rosenkavalier/</guid>
+      <guid>https://walse.cz/program/20260328-rosenkavalier/</guid>
       <description>&lt;p&gt;Po archaicky dramatických jednoaktovkách Salome a Elektra hledal Richard Strauss pro svou další operu lehčí, veselejší námět ve stylu Mozartových operních komedií – což byl záměr, s nímž se rád ztotožnil i Hugo von Hofmannsthal. Ve svém libretu vytvořil umělou rokokovou Vídeň s přesvědčivými, ale smyšlenými zvyky a dialekty, kterou Strauss na hudební straně ještě vylepšil anachronickými valčíky. V tomto fantazijním Vídni plném radosti ze života, frašek a tradičních třídních rozdílů, ale také plném deprese a morbidity se odráží nejen 18. století, ale především Belle Époque, která se chýlila ke konci. Straussova partitura tak opět nabízí celou bohatost orchestrálních barev, téměř bezuzdné rozkošování, které vrcholí v závěrečném triu, které je z hlediska hudební krásy nepřekonatelné, ale také ukazuje hluboké zlomy. Jen několik let před rozpadem Rakousko-Uherska se Růžový kavalír stává rozloučením s celou epochou.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Die Nase</title>
-      <link>http://localhost:1313/program/20260327-ko-nase/</link>
+      <link>https://walse.cz/program/20260327-ko-nase/</link>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260327-ko-nase/</guid>
+      <guid>https://walse.cz/program/20260327-ko-nase/</guid>
       <description>&lt;p&gt;To nebude dobre.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -444,21 +444,21 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260327-ko-nase/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260327-ko-nase/images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260327-ko-nase/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260327-ko-nase/images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tristan und Isolde</title>
-      <link>http://localhost:1313/program/20260309-met-tristan/</link>
+      <link>https://walse.cz/program/20260309-met-tristan/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260309-met-tristan/</guid>
+      <guid>https://walse.cz/program/20260309-met-tristan/</guid>
       <description>MET Radio 9.3., MET kino 21.3.</description>
     </item>
     <item>
       <title>Prodaná nevěsta</title>
-      <link>http://localhost:1313/program/20260304-nd-prodana-nevesta/</link>
+      <link>https://walse.cz/program/20260304-nd-prodana-nevesta/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260304-nd-prodana-nevesta/</guid>
+      <guid>https://walse.cz/program/20260304-nd-prodana-nevesta/</guid>
       <description>Bedřich Smetana: 
  Prodaná nevěsta&lt;br&gt;
  ND.
@@ -553,10 +553,10 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-2.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
