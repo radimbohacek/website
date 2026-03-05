@@ -1,0 +1,19 @@
+# Hugo generated files at root and in section subdirectories
+index.html
+index.xml
+index.json
+sitemap.xml
+robots.txt
+
+# All subdirectory generated index files
+**/index.html
+**/index.xml
+**/index.json
+
+# Hugo build cache and temp
+.hugo_build.lock
+resources/
+
+# OS files
+.DS_Store
+Thumbs.db
