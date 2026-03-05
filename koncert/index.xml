@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>koncert on Walse</title>
-    <link>https://walse.cz/koncert/</link>
+    <link>http://localhost:1313/koncert/</link>
     <description>Recent content in koncert on Walse</description>
     <image>
       <title>Walse</title>
-      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>cs</language>
     <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://walse.cz/koncert/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/koncert/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tannhauser</title>
-      <link>https://walse.cz/koncert/20260219-cf/</link>
+      <link>http://localhost:1313/koncert/20260219-cf/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20260219-cf/</guid>
+      <guid>http://localhost:1313/koncert/20260219-cf/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Fleur Barron, mezzosoprán&lt;/li&gt;
 &lt;li&gt;Semjon Byčkov, dirigent&lt;/li&gt;
@@ -45,22 +45,22 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-1.webp&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-1.webp&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symfonie N 9</title>
-      <link>https://walse.cz/koncert/20260213-dresden-bruckner-9/</link>
+      <link>http://localhost:1313/koncert/20260213-dresden-bruckner-9/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20260213-dresden-bruckner-9/</guid>
+      <guid>http://localhost:1313/koncert/20260213-dresden-bruckner-9/</guid>
       <description>&lt;p&gt;This year’s Remembrance Concert commemorating the destruction of Dresden on 13 February 1945 features Igor Stravinsky’s »Mass«, a deliberately sober, liturgically reduced Mass setting. The composer did not produce a bombastic celebration of Christ’s sacrifice but rather a piece of quiet contemplation. Anton Bruckner’s Ninth feels rather like a testimonial. The composer dedicated the symphony to »our dear Lord« as an act of the deepest devotion. The three completed movements take us on an emotional journey from loss and devastation to hope before the unfinished work fades into silence. Daniele Gatti unites these two compositions to create a poignant tapestry of mourning, remembrance and contemporary spirituality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ein Deutsches Requiem</title>
-      <link>https://walse.cz/koncert/20260125-brahms-deutshes-requiem/</link>
+      <link>http://localhost:1313/koncert/20260125-brahms-deutshes-requiem/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20260125-brahms-deutshes-requiem/</guid>
+      <guid>http://localhost:1313/koncert/20260125-brahms-deutshes-requiem/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -87,7 +87,7 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260125-brahms-deutshes-requiem/images/brahms-2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260125-brahms-deutshes-requiem/images/brahms-2.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;german-and-english-text&#34;&gt;German and English text&lt;/h3&gt;
 &lt;p&gt;The German text below was selected by Brahms from the Lutheran Bible. The English is from the King James Bible.&lt;/p&gt;
 &lt;table&gt;

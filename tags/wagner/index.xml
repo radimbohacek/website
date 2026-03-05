@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wagner on Walse</title>
-    <link>https://walse.cz/tags/wagner/</link>
+    <link>http://localhost:1313/tags/wagner/</link>
     <description>Recent content in Wagner on Walse</description>
     <image>
       <title>Walse</title>
-      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://walse.cz/tags/wagner/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/wagner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rienzi</title>
-      <link>https://walse.cz/program/20260803-bayreuth-rienzi/</link>
+      <link>http://localhost:1313/program/20260803-bayreuth-rienzi/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260803-bayreuth-rienzi/</guid>
+      <guid>http://localhost:1313/program/20260803-bayreuth-rienzi/</guid>
       <description>Richard Wagner: 
  Rienzi&lt;br&gt;
  Bayreuther Festspiele.
@@ -33,9 +33,9 @@
     </item>
     <item>
       <title>Parsifal</title>
-      <link>https://walse.cz/program/20260331-semper-parsifal/</link>
+      <link>http://localhost:1313/program/20260331-semper-parsifal/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260331-semper-parsifal/</guid>
+      <guid>http://localhost:1313/program/20260331-semper-parsifal/</guid>
       <description>Richard Wagner: 
  Parsifal&lt;br&gt;
  Semperoper Dresdner.
@@ -123,16 +123,16 @@
     </item>
     <item>
       <title>Tristan und Isolde</title>
-      <link>https://walse.cz/program/20260309-met-tristan/</link>
+      <link>http://localhost:1313/program/20260309-met-tristan/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260309-met-tristan/</guid>
+      <guid>http://localhost:1313/program/20260309-met-tristan/</guid>
       <description>MET Radio 9.3., MET kino 21.3.</description>
     </item>
     <item>
       <title>Tannhauser</title>
-      <link>https://walse.cz/koncert/20260219-cf/</link>
+      <link>http://localhost:1313/koncert/20260219-cf/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20260219-cf/</guid>
+      <guid>http://localhost:1313/koncert/20260219-cf/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Fleur Barron, mezzosoprán&lt;/li&gt;
 &lt;li&gt;Semjon Byčkov, dirigent&lt;/li&gt;
@@ -160,71 +160,71 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-1.webp&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-1.webp&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zlato Rýna</title>
-      <link>https://walse.cz/opera/20260212-nd-zlato-ryna/</link>
+      <link>http://localhost:1313/opera/20260212-nd-zlato-ryna/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20260212-nd-zlato-ryna/</guid>
+      <guid>http://localhost:1313/opera/20260212-nd-zlato-ryna/</guid>
       <description>Zase dokurví Wagnera, tentokrát pořádně.</description>
     </item>
     <item>
       <title>Lohengrin</title>
-      <link>https://walse.cz/opera/20260124-staatsoper-lohengrin/</link>
+      <link>http://localhost:1313/opera/20260124-staatsoper-lohengrin/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20260124-staatsoper-lohengrin/</guid>
+      <guid>http://localhost:1313/opera/20260124-staatsoper-lohengrin/</guid>
       <description>Kancelářský zmar</description>
     </item>
     <item>
       <title>Tristan und Isolde</title>
-      <link>https://walse.cz/opera/20260119-liceu-tristan/</link>
+      <link>http://localhost:1313/opera/20260119-liceu-tristan/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20260119-liceu-tristan/</guid>
+      <guid>http://localhost:1313/opera/20260119-liceu-tristan/</guid>
       <description>Debut století</description>
     </item>
     <item>
       <title>Gotterdammerung</title>
-      <link>https://walse.cz/opera/20251003-staatsoper-gotterdammerung/</link>
+      <link>http://localhost:1313/opera/20251003-staatsoper-gotterdammerung/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20251003-staatsoper-gotterdammerung/</guid>
+      <guid>http://localhost:1313/opera/20251003-staatsoper-gotterdammerung/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Siegfried</title>
-      <link>https://walse.cz/opera/20251001-staatsoper-siegfried/</link>
+      <link>http://localhost:1313/opera/20251001-staatsoper-siegfried/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20251001-staatsoper-siegfried/</guid>
+      <guid>http://localhost:1313/opera/20251001-staatsoper-siegfried/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Die Valkure</title>
-      <link>https://walse.cz/opera/20250928-staatsoper-valkure/</link>
+      <link>http://localhost:1313/opera/20250928-staatsoper-valkure/</link>
       <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20250928-staatsoper-valkure/</guid>
+      <guid>http://localhost:1313/opera/20250928-staatsoper-valkure/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Das Rheingold</title>
-      <link>https://walse.cz/opera/20250927-staatsoper-rheingold/</link>
+      <link>http://localhost:1313/opera/20250927-staatsoper-rheingold/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20250927-staatsoper-rheingold/</guid>
+      <guid>http://localhost:1313/opera/20250927-staatsoper-rheingold/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Lohengrin</title>
-      <link>https://walse.cz/opera/20250804-bayreuth-lohengrin/</link>
+      <link>http://localhost:1313/opera/20250804-bayreuth-lohengrin/</link>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20250804-bayreuth-lohengrin/</guid>
+      <guid>http://localhost:1313/opera/20250804-bayreuth-lohengrin/</guid>
       <description>Labuť na trafostanici</description>
     </item>
     <item>
       <title>Tristan und Isolde</title>
-      <link>https://walse.cz/opera/20250803-bayreuth-tristan/</link>
+      <link>http://localhost:1313/opera/20250803-bayreuth-tristan/</link>
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20250803-bayreuth-tristan/</guid>
+      <guid>http://localhost:1313/opera/20250803-bayreuth-tristan/</guid>
       <description>Papírová Isolda</description>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Parsifal on Walse</title>
-    <link>https://walse.cz/tags/parsifal/</link>
+    <link>http://localhost:1313/tags/parsifal/</link>
     <description>Recent content in Parsifal on Walse</description>
     <image>
       <title>Walse</title>
-      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>cs</language>
     <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://walse.cz/tags/parsifal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/parsifal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parsifal</title>
-      <link>https://walse.cz/program/20260331-semper-parsifal/</link>
+      <link>http://localhost:1313/program/20260331-semper-parsifal/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260331-semper-parsifal/</guid>
+      <guid>http://localhost:1313/program/20260331-semper-parsifal/</guid>
       <description>Richard Wagner: 
  Parsifal&lt;br&gt;
  Semperoper Dresdner.

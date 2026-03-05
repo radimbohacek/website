@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Byčkov on Walse</title>
-    <link>https://walse.cz/tags/by%C4%8Dkov/</link>
+    <link>http://localhost:1313/tags/by%C4%8Dkov/</link>
     <description>Recent content in Byčkov on Walse</description>
     <image>
       <title>Walse</title>
-      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>cs</language>
     <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://walse.cz/tags/by%C4%8Dkov/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/by%C4%8Dkov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tannhauser</title>
-      <link>https://walse.cz/koncert/20260219-cf/</link>
+      <link>http://localhost:1313/koncert/20260219-cf/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20260219-cf/</guid>
+      <guid>http://localhost:1313/koncert/20260219-cf/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Fleur Barron, mezzosoprán&lt;/li&gt;
 &lt;li&gt;Semjon Byčkov, dirigent&lt;/li&gt;
@@ -45,9 +45,9 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-1.webp&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-1.webp&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

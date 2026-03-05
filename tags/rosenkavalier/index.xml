@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rosenkavalier on Walse</title>
-    <link>https://walse.cz/tags/rosenkavalier/</link>
+    <link>http://localhost:1313/tags/rosenkavalier/</link>
     <description>Recent content in Rosenkavalier on Walse</description>
     <image>
       <title>Walse</title>
-      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>cs</language>
     <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://walse.cz/tags/rosenkavalier/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rosenkavalier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Der Rosenkavalier</title>
-      <link>https://walse.cz/program/20260328-rosenkavalier/</link>
+      <link>http://localhost:1313/program/20260328-rosenkavalier/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260328-rosenkavalier/</guid>
+      <guid>http://localhost:1313/program/20260328-rosenkavalier/</guid>
       <description>&lt;p&gt;Po archaicky dramatických jednoaktovkách Salome a Elektra hledal Richard Strauss pro svou další operu lehčí, veselejší námět ve stylu Mozartových operních komedií – což byl záměr, s nímž se rád ztotožnil i Hugo von Hofmannsthal. Ve svém libretu vytvořil umělou rokokovou Vídeň s přesvědčivými, ale smyšlenými zvyky a dialekty, kterou Strauss na hudební straně ještě vylepšil anachronickými valčíky. V tomto fantazijním Vídni plném radosti ze života, frašek a tradičních třídních rozdílů, ale také plném deprese a morbidity se odráží nejen 18. století, ale především Belle Époque, která se chýlila ke konci. Straussova partitura tak opět nabízí celou bohatost orchestrálních barev, téměř bezuzdné rozkošování, které vrcholí v závěrečném triu, které je z hlediska hudební krásy nepřekonatelné, ale také ukazuje hluboké zlomy. Jen několik let před rozpadem Rakousko-Uherska se Růžový kavalír stává rozloučením s celou epochou.&lt;/p&gt;</description>
     </item>
   </channel>
