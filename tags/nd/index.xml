@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ND on Walse</title>
-    <link>http://localhost:1313/tags/nd/</link>
+    <link>https://walse.cz/tags/nd/</link>
     <description>Recent content in ND on Walse</description>
     <image>
       <title>Walse</title>
-      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.157.0</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://walse.cz/tags/nd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rusalka</title>
-      <link>http://localhost:1313/program/20260530-nd-rusalka/</link>
+      <link>https://walse.cz/program/20260530-nd-rusalka/</link>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260530-nd-rusalka/</guid>
+      <guid>https://walse.cz/program/20260530-nd-rusalka/</guid>
       <description>Antonín Dvořák: 
  Rusalka&lt;br&gt;
  ND.
@@ -111,16 +111,16 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-2.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prodaná nevěsta</title>
-      <link>http://localhost:1313/opera/20260304-nd-prodana-nevesta/</link>
+      <link>https://walse.cz/program/20260304-nd-prodana-nevesta/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/opera/20260304-nd-prodana-nevesta/</guid>
+      <guid>https://walse.cz/program/20260304-nd-prodana-nevesta/</guid>
       <description>Bedřich Smetana: 
  Prodaná nevěsta&lt;br&gt;
  ND.
@@ -215,25 +215,25 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/opera/20260304-nd-prodana-nevesta/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/opera/20260304-nd-prodana-nevesta/images/photo-2.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/opera/20260304-nd-prodana-nevesta/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/opera/20260304-nd-prodana-nevesta/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dido a Aeneas</title>
-      <link>http://localhost:1313/opera/20260225-nd-dido/</link>
+      <link>https://walse.cz/opera/20260225-nd-dido/</link>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/opera/20260225-nd-dido/</guid>
+      <guid>https://walse.cz/opera/20260225-nd-dido/</guid>
       <description>&lt;p&gt;Mistrovské dílo barokní opery, plné emocí a tajemství. Dido a Aeneas, ve světě i u nás neznámější dílo Henryho Purcella, je intimním a melancholickým hudebním ztvárněním Vergiliova příběhu o osudové lásce královny Dido a trójského hrdiny Aenea.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/opera/20260225-nd-dido/images/photo-1.webp&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20260225-nd-dido/images/photo-1.webp&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Perla barokní hudby, jedna z nejstarších dodnes široce uváděných a populárních oper, první anglická opera světového formátu&amp;hellip; Tak a ještě jinak by se dalo charakterizovat nejslavnější dílo Henryho Purcella, o jehož vzniku ovšem nemáme zcela jasno a které se nám ani nedochovalo v úplnosti. Jeho premiéra se konala snad roku 1689 ve škole mladých šlechtičen, kterou provozoval v londýnské Chelsea taneční mistr a choreograf Josias Priest. Někteří ovšem tvrdí, že Purcell svou operu původně napsal přímo pro královský dvůr Jakuba II. nebo dokonce ještě dříve pro Karla II. Opera prý v sobě dokonce nesla skrytou a do mytologického příběhu zahalenou politickou alegorii, v níž například postavy čarodějnic měly symbolizovat v Anglii velmi neoblíbenou katolickou církev&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zlato Rýna</title>
-      <link>http://localhost:1313/opera/20260212-nd-zlato-ryna/</link>
+      <link>https://walse.cz/opera/20260212-nd-zlato-ryna/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/opera/20260212-nd-zlato-ryna/</guid>
+      <guid>https://walse.cz/opera/20260212-nd-zlato-ryna/</guid>
       <description>Zase dokurví Wagnera, tentokrát pořádně.</description>
     </item>
   </channel>
