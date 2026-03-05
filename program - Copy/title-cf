@@ -1,0 +1,37 @@
+---
+title: ""
+author: ""
+date: 
+datum: "9. 3. 2026" # as string for future date
+weight: 20260309 
+place: "Rudolfinum"
+orchester: "Česká filharmonie"
+conductor: "Semjon Byčkov"
+inscenation: ""
+soloists: ""
+description: "
+link: "https://www.ceskafilharmonie.cz/program/"
+tags: ["Koncert", "", "Česká filharmonie", ""]
+cover:
+    image: "images/cover.jpg"
+    alt: ""
+    caption: ""
+    relative: false
+showToc: false
+TocOpen: false
+hidemeta: false
+comments: true
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+---
+
+|   |  |
+|:--|:--|
+
+![](images/photo-1.jpg)

@@ -1,0 +1,36 @@
+---
+title: "Tristan und Isolde"
+author: "Richard Wagner"
+date: 
+datum: "9. 3. 2026" # as string for future date
+weight: 20260309 
+place: "New York"
+orchester: "MET"
+conductor: "Yannick Nézet-Séguin"
+inscenation: "Režie: Yuval Sharon"
+soloists: "Lise Davidsen, Michael Spyres"
+description: "MET Radio 9.3., MET kino 21.3."
+tags: ["Opera", "Wagner", "MET", "Tristan"]
+cover:
+    image: "images/cover.jpg"
+    alt: ""
+    caption: ""
+    relative: false
+showToc: false
+TocOpen: false
+hidemeta: false
+comments: true
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+---
+
+|   |  |
+|:--|:--|
+
+![](images/photo-1.jpg)

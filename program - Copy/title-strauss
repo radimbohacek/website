@@ -1,0 +1,38 @@
+---
+title: ""
+author: "Richard Strauss"
+date:  # 20260309 
+datum: "9. 3. 2026" # as string for future date
+weight: 20260309 
+place: "Berlin"
+orchester: "Staatsoper"
+conductor: ""
+inscenation: "Režie: "
+soloists: ""
+description: ""
+tags: ["Opera", "Strauss", "Berlin", ""]
+cover:
+    image: "images/cover.jpg"
+    alt: ""
+    caption: ""
+    relative: false
+showToc: false
+TocOpen: false
+hidemeta: false
+comments: true
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+---
+
+
+|   |  |
+|:--|:--|
+
+![](images/photo-1.jpg)
+
