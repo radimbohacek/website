@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bach on Walse</title>
+    <link>http://localhost:1313/tags/bach/</link>
+    <description>Recent content in Bach on Walse</description>
+    <image>
+      <title>Walse</title>
+      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>cs</language>
+    <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Johannes-Passion</title>
+      <link>http://localhost:1313/program/20260330-johannes-passion/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/program/20260330-johannes-passion/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;RIAS Kammerchor Berlin&lt;/li&gt;
+&lt;li&gt;Justin Doyle Dirigent&lt;/li&gt;
+&lt;li&gt;Benedikt Kristjánsson Tenor (Evangelist)&lt;/li&gt;
+&lt;li&gt;Martin Häßler Bass (Jesusworte)&lt;/li&gt;
+&lt;li&gt;Katharina Konradi Sopran&lt;/li&gt;
+&lt;li&gt;Sarah Romberger Alt&lt;/li&gt;
+&lt;li&gt;Julian Habermann Tenor&lt;/li&gt;
+&lt;li&gt;Marcus Farnsworth Bass&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Echt alt und höchst lebendig: Wie mitreißend Musik vom 17. bis frühen 19. Jahrhundert klingen kann, zeigt die Akademie für Alte Musik Berlin seit vielen Saisons in ihrer eigenen Reihe am Konzerthaus Berlin.&lt;/p&gt;
+&lt;p&gt;An Karfreitag 1724 erklang in der Leipziger Nikolaikirche mit Bachs Johannes-Passion die erste Passions-Musik des neuen Thomaskantors. Die Gemeinde, bisher an Johann Walters schlichtes Werk von 1530 gewöhnt, war vermutlich ziemlich überrascht und aufgeregt: Diese Musik war so prachtvoll und so viel reicher instrumentiert! Als Erzählung von Vertrauen und Verrat, Liebe und Verzweiflung, Angst, Schmerz und der Hoffnung auf Gnade und Erlösung verlieh sie der Leidensgeschichte Jesu beinahe Ähnlichkeit mit einer Oper über die Abgründe des irdischen Daseins, die der Mensch jedoch durch Gottvertrauen überwinden kann. Zwar steht die Johannes-Passion heute eher im Schatten von Bachs viel berühmterer Matthäus-Passion – ihrer mitreißenden Schönheit und bewegenden Klangsprache tut dies jedoch kein Abbruch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Das wohltemperierte Klavier II</title>
+      <link>http://localhost:1313/program/20260329-aimard/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/program/20260329-aimard/</guid>
+      <description>&lt;p&gt;Johann Sebastian Bach&lt;/p&gt;
+&lt;p&gt;Das wohltemperierte Klavier, Band II BWV 870–893&lt;/p&gt;
+&lt;p&gt;Vor einigen Jahren nahm Pierre-Laurent Aimard eigens ein Sabbatical, um sich ohne Ablenkungen durch den Konzertbetrieb dem ersten Buch von Bachs Wohltemperiertem Klavier zu widmen. Nun hat er sich mit ähnlicher Hingabe den zweiten Teil des Meisterwerks vorgenommen und interpretiert im Pierre Boulez Saal die 24 Präludien und Fugen, in denen architektonische Strenge und grenzenlose kompositorische Fantasie eine atemberaubende Verbindung eingehen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
