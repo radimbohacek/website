@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MET on Walse</title>
-    <link>http://localhost:1313/tags/met/</link>
+    <link>https://walse.cz/tags/met/</link>
     <description>Recent content in MET on Walse</description>
     <image>
       <title>Walse</title>
-      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/met/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://walse.cz/tags/met/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tristan und Isolde</title>
-      <link>http://localhost:1313/program/20260309-met-tristan/</link>
+      <link>https://walse.cz/program/20260309-met-tristan/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260309-met-tristan/</guid>
+      <guid>https://walse.cz/program/20260309-met-tristan/</guid>
       <description>MET Radio 9.3., MET kino 21.3.</description>
     </item>
   </channel>

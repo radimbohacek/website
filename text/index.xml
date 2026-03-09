@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>text on Walse</title>
-    <link>http://localhost:1313/text/</link>
+    <link>https://walse.cz/text/</link>
     <description>Recent content in text on Walse</description>
     <image>
       <title>Walse</title>
-      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
-    <atom:link href="http://localhost:1313/text/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://walse.cz/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hlasy mužské</title>
-      <link>http://localhost:1313/text/hlasy-m/</link>
+      <link>https://walse.cz/text/hlasy-m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/text/hlasy-m/</guid>
+      <guid>https://walse.cz/text/hlasy-m/</guid>
       <description>&lt;h2 id=&#34;tenor&#34;&gt;Tenor&lt;/h2&gt;
 &lt;h3 id=&#34;heldentenor-cc&#34;&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Heldentenor&#34; title=&#34;Heldentenor&#34;&gt;Heldentenor&lt;/a&gt; (c–c’’)&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/File:Tenor_B_to_C.svg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tenor_B_to_C.svg/250px-Tenor_B_to_C.svg.png&#34;&gt;&lt;/a&gt;
@@ -30,9 +30,9 @@
     </item>
     <item>
       <title>hlasy ženské</title>
-      <link>http://localhost:1313/text/hlasy-f/</link>
+      <link>https://walse.cz/text/hlasy-f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/text/hlasy-f/</guid>
+      <guid>https://walse.cz/text/hlasy-f/</guid>
       <description>&lt;h2 id=&#34;sopran&#34;&gt;Sopran&lt;/h2&gt;
 &lt;h3 id=&#34;hochdramatischer-sopran&#34;&gt;[Hochdramatischer Sopran]&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/File:Soprano_F_to_C.svg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Soprano_F_to_C.svg/250px-Soprano_F_to_C.svg.png&#34;&gt;&lt;/a&gt;

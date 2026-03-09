@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Konzerthaus on Walse</title>
-    <link>http://localhost:1313/tags/konzerthaus/</link>
+    <link>https://walse.cz/tags/konzerthaus/</link>
     <description>Recent content in Konzerthaus on Walse</description>
     <image>
       <title>Walse</title>
-      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/konzerthaus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://walse.cz/tags/konzerthaus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Johannes-Passion</title>
-      <link>http://localhost:1313/program/20260330-johannes-passion/</link>
+      <link>https://walse.cz/program/20260330-johannes-passion/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260330-johannes-passion/</guid>
+      <guid>https://walse.cz/program/20260330-johannes-passion/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;RIAS Kammerchor Berlin&lt;/li&gt;
 &lt;li&gt;Justin Doyle Dirigent&lt;/li&gt;
