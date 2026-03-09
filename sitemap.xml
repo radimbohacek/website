@@ -80,6 +80,24 @@
     <loc>https://walse.cz/tags/hr%C5%AF%C5%A1a/</loc>
     <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://walse.cz/program/20260422-zurich-arabella/</loc>
+    <lastmod>2026-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/arabella/</loc>
+    <lastmod>2026-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/opernhaus-zurich/</loc>
+    <lastmod>2026-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/la-fenice/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/program/20260415-fenice-lohengrin/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/lohengrin/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://walse.cz/program/20260331-semper-parsifal/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -88,6 +106,27 @@
   </url><url>
     <loc>https://walse.cz/tags/semper/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/bach/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/program/20260330-johannes-passion/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/johannes-passion/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/konzerthaus/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/aimard/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/boulez-saal/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/program/20260329-aimard/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/program/20260328-rosenkavalier/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
@@ -119,7 +158,10 @@
     <loc>https://walse.cz/program/20260309-met-tristan/</loc>
     <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/program/20260304-nd-prodana-nevesta/</loc>
+    <loc>https://walse.cz/opera/</loc>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20260304-nd-prodana-nevesta/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/prodan%C3%A1-nev%C4%9Bsta/</loc>
@@ -129,9 +171,6 @@
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/opera/20260225-nd-dido/</loc>
-    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://walse.cz/opera/</loc>
     <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/purcell/</loc>
@@ -173,9 +212,6 @@
     <loc>https://walse.cz/opera/20260124-staatsoper-lohengrin/</loc>
     <lastmod>2026-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/tags/lohengrin/</loc>
-    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://walse.cz/tags/liceu/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -206,14 +242,28 @@
     <loc>https://walse.cz/opera/20250803-bayreuth-tristan/</loc>
     <lastmod>2025-08-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://walse.cz/opera/20241124-nd-rosenkavalier/</loc>
+    <lastmod>2023-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/st%C3%A1tn%C3%AD-opera/</loc>
+    <lastmod>2023-10-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://walse.cz/archives/</loc>
   </url><url>
     <loc>https://walse.cz/categories/</loc>
+  </url><url>
+    <loc>https://walse.cz/tags/hlasy/</loc>
+  </url><url>
+    <loc>https://walse.cz/text/hlasy-m/</loc>
+  </url><url>
+    <loc>https://walse.cz/text/hlasy-f/</loc>
   </url><url>
     <loc>https://walse.cz/search/</loc>
   </url><url>
     <loc>https://walse.cz/about/</loc>
   </url><url>
     <loc>https://walse.cz/odkazy/</loc>
+  </url><url>
+    <loc>https://walse.cz/text/</loc>
   </url>
 </urlset>

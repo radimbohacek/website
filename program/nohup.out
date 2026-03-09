@@ -1,0 +1,21 @@
+Get:1 http://archive.ubuntu.com/ubuntu questing-updates InRelease [136 kB]
+Hit:2 http://archive.ubuntu.com/ubuntu questing-backports InRelease
+Get:3 http://archive.ubuntu.com/ubuntu questing-security InRelease [136 kB]
+Hit:4 http://archive.ubuntu.com/ubuntu questing InRelease
+Get:5 http://archive.ubuntu.com/ubuntu questing-updates/main i386 Packages [184 kB]
+Get:6 http://archive.ubuntu.com/ubuntu questing-updates/main amd64 Packages [324 kB]
+Get:7 http://archive.ubuntu.com/ubuntu questing-updates/universe amd64 Packages [207 kB]
+Get:8 http://archive.ubuntu.com/ubuntu questing-updates/universe i386 Packages [115 kB]
+Get:9 http://archive.ubuntu.com/ubuntu questing-security/main i386 Packages [110 kB]
+Get:10 http://archive.ubuntu.com/ubuntu questing-security/main amd64 Packages [221 kB]
+Get:11 http://archive.ubuntu.com/ubuntu questing-security/main amd64 c-n-f Metadata [5,344 B]
+Get:12 http://archive.ubuntu.com/ubuntu questing-security/universe i386 Packages [84.7 kB]
+Get:13 http://archive.ubuntu.com/ubuntu questing-security/universe amd64 Packages [143 kB]
+Get:14 http://archive.ubuntu.com/ubuntu questing-security/universe amd64 c-n-f Metadata [4,144 B]
+Fetched 1,669 kB in 1s (2,683 kB/s)
+Reading package lists...
+Hit:1 http://archive.ubuntu.com/ubuntu questing-updates InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu questing-backports InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu questing-security InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu questing InRelease
+Reading package lists...

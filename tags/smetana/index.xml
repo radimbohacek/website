@@ -15,9 +15,9 @@
     <atom:link href="https://walse.cz/tags/smetana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prodaná nevěsta</title>
-      <link>https://walse.cz/program/20260304-nd-prodana-nevesta/</link>
+      <link>https://walse.cz/opera/20260304-nd-prodana-nevesta/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260304-nd-prodana-nevesta/</guid>
+      <guid>https://walse.cz/opera/20260304-nd-prodana-nevesta/</guid>
       <description>Bedřich Smetana: 
  Prodaná nevěsta&lt;br&gt;
  ND.
@@ -112,10 +112,8 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-2.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260304-nd-prodana-nevesta/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;h3 id=&#34;wotan-souhlasí-s-libuší-hansenova-šmíra-atentát-na-prodanou-nevěstu-v-národní-opičárně&#34;&gt;Wotan souhlasí s Libuší: Hansenova šmíra. Atentát na Prodanou nevěstu v Národní opičárně&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.libuse-journal.com/art-reviews-1/2022/hansenova-%C5%A1m%C3%ADra-atent%C3%A1t-na-prodanou-nev%C4%9Bstu-v-n%C3%A1rodn%C3%AD-opi%C4%8D%C3%A1rn%C4%9B/&#34;&gt;Recenze&lt;/a&gt; repríz konaných 2. a 4. 6. 2022 v Národním divadle&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
