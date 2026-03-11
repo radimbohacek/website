@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nase on Walse</title>
-    <link>http://localhost:1313/tags/nase/</link>
+    <link>https://walse.cz/tags/nase/</link>
     <description>Recent content in Nase on Walse</description>
     <image>
       <title>Walse</title>
-      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://walse.cz/tags/nase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Die Nase</title>
-      <link>http://localhost:1313/program/20260327-ko-nase/</link>
+      <link>https://walse.cz/program/20260327-ko-nase/</link>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260327-ko-nase/</guid>
+      <guid>https://walse.cz/program/20260327-ko-nase/</guid>
       <description>&lt;p&gt;To nebude dobre.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -105,8 +105,8 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260327-ko-nase/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260327-ko-nase/images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260327-ko-nase/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260327-ko-nase/images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
