@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Walse</title>
-    <link>https://walse.cz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Walse</description>
     <image>
       <title>Walse</title>
-      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://walse.cz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rienzi</title>
-      <link>https://walse.cz/program/20260803-bayreuth-rienzi/</link>
+      <link>http://localhost:1313/program/20260803-bayreuth-rienzi/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260803-bayreuth-rienzi/</guid>
+      <guid>http://localhost:1313/program/20260803-bayreuth-rienzi/</guid>
       <description>Richard Wagner: 
  Rienzi&lt;br&gt;
  Bayreuther Festspiele.
@@ -33,9 +33,9 @@
     </item>
     <item>
       <title>Česká filharmonie</title>
-      <link>https://walse.cz/program/20260602-cf-hannigan/</link>
+      <link>http://localhost:1313/program/20260602-cf-hannigan/</link>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260602-cf-hannigan/</guid>
+      <guid>http://localhost:1313/program/20260602-cf-hannigan/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -62,9 +62,9 @@
     </item>
     <item>
       <title>Luigi Nono mezi aeroplány</title>
-      <link>https://walse.cz/program/20260601-cf-ntm/</link>
+      <link>http://localhost:1313/program/20260601-cf-ntm/</link>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260601-cf-ntm/</guid>
+      <guid>http://localhost:1313/program/20260601-cf-ntm/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -89,16 +89,16 @@
     </item>
     <item>
       <title>Barbara Hannigan Masterclass</title>
-      <link>https://walse.cz/program/20260531-hannigan-masterclass/</link>
+      <link>http://localhost:1313/program/20260531-hannigan-masterclass/</link>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260531-hannigan-masterclass/</guid>
+      <guid>http://localhost:1313/program/20260531-hannigan-masterclass/</guid>
       <description></description>
     </item>
     <item>
       <title>Rusalka</title>
-      <link>https://walse.cz/program/20260530-nd-rusalka/</link>
+      <link>http://localhost:1313/program/20260530-nd-rusalka/</link>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260530-nd-rusalka/</guid>
+      <guid>http://localhost:1313/program/20260530-nd-rusalka/</guid>
       <description>Antonín Dvořák: 
  Rusalka&lt;br&gt;
  ND.
@@ -192,16 +192,16 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-2.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Die schweigsame Frau</title>
-      <link>https://walse.cz/program/20260525-schweigsame-frau/</link>
+      <link>http://localhost:1313/program/20260525-schweigsame-frau/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260525-schweigsame-frau/</guid>
+      <guid>http://localhost:1313/program/20260525-schweigsame-frau/</guid>
       <description>Richard Strauss: 
  Die schweigsame Frau&lt;br&gt;
  Staatsoper Unter den Linden.
@@ -217,9 +217,9 @@
     </item>
     <item>
       <title>Barbara Hannigan a Belcea Quartet</title>
-      <link>https://walse.cz/program/20260524-hannigan/</link>
+      <link>http://localhost:1313/program/20260524-hannigan/</link>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260524-hannigan/</guid>
+      <guid>http://localhost:1313/program/20260524-hannigan/</guid>
       <description>&lt;p&gt;Program&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Anton Webern: Pět vět op. 5&lt;/li&gt;
@@ -240,9 +240,9 @@
     </item>
     <item>
       <title>Česká filharmonie</title>
-      <link>https://walse.cz/program/20260519-cf-hrusa/</link>
+      <link>http://localhost:1313/program/20260519-cf-hrusa/</link>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260519-cf-hrusa/</guid>
+      <guid>http://localhost:1313/program/20260519-cf-hrusa/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -256,106 +256,10 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/photo-1.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Arabella</title>
-      <link>https://walse.cz/program/20260422-zurich-arabella/</link>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260422-zurich-arabella/</guid>
-      <description>&lt;p&gt;Esesáci na scéně.&lt;/p&gt;
-&lt;p&gt;Although she is surrounded by many admirers, Arabella dreams only of the «right one». She finds him in Mandryka, the Croatian landowner. Opera history’s final idealized marriage of love was written on the precipice of disaster: The opera dates to a time of deep social insecurity. The operetta-like tone of Strauss’ «Lyrischer Komödie» is strangely fractured. When it premiered in Dresden in 1933, it was instrumentalized by the Nazis for propaganda purposes. Director Robert Carsen doesn’t ignore the socio-political context and relocates the plot to the height of the Third Reich. The cast includes Diana Damrau, Michael Volle, and Pavol Breslik.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lohengrin</title>
-      <link>https://walse.cz/program/20260415-fenice-lohengrin/</link>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260415-fenice-lohengrin/</guid>
-      <description>&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Conductor&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Markus Stenz&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Director&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Damiano Michieletto&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;revival direction by Amanda Haberpeuntner&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Dramaturg&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Mattia Palma&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Set designer&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Paolo Fantin&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Costum designer&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Carla Teti&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Lighting designer&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Alessandro Carletti&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;La Fenice Orchestra &amp;amp; Choir&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Chorus Master&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Alfonso Caiani&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Hungarian National Male Choir&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Chorus Master&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Richárd Riederauer&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Heinrich der Vogler&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Andrea Silvestrelli&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Lohengrin&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Brian Jagde&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Elsa von Brabant&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Dorothea Herbert&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Friedrich von Telramund&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Claudio Otelli&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Ortrud&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Chiara Mogini&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Der Heerrufer des Königs&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Äneas Humm&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Herzog Gottfried&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Pietro Ceccato, Leo Mannise&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</description>
-    </item>
-    <item>
       <title>Parsifal</title>
-      <link>https://walse.cz/program/20260331-semper-parsifal/</link>
+      <link>http://localhost:1313/program/20260331-semper-parsifal/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260331-semper-parsifal/</guid>
+      <guid>http://localhost:1313/program/20260331-semper-parsifal/</guid>
       <description>Richard Wagner: 
  Parsifal&lt;br&gt;
  Semperoper Dresdner.
@@ -442,44 +346,17 @@
 &lt;img loading=&#34;lazy&#34; src=&#34;images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Johannes-Passion</title>
-      <link>https://walse.cz/program/20260330-johannes-passion/</link>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260330-johannes-passion/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;RIAS Kammerchor Berlin&lt;/li&gt;
-&lt;li&gt;Justin Doyle Dirigent&lt;/li&gt;
-&lt;li&gt;Benedikt Kristjánsson Tenor (Evangelist)&lt;/li&gt;
-&lt;li&gt;Martin Häßler Bass (Jesusworte)&lt;/li&gt;
-&lt;li&gt;Katharina Konradi Sopran&lt;/li&gt;
-&lt;li&gt;Sarah Romberger Alt&lt;/li&gt;
-&lt;li&gt;Julian Habermann Tenor&lt;/li&gt;
-&lt;li&gt;Marcus Farnsworth Bass&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Echt alt und höchst lebendig: Wie mitreißend Musik vom 17. bis frühen 19. Jahrhundert klingen kann, zeigt die Akademie für Alte Musik Berlin seit vielen Saisons in ihrer eigenen Reihe am Konzerthaus Berlin.&lt;/p&gt;
-&lt;p&gt;An Karfreitag 1724 erklang in der Leipziger Nikolaikirche mit Bachs Johannes-Passion die erste Passions-Musik des neuen Thomaskantors. Die Gemeinde, bisher an Johann Walters schlichtes Werk von 1530 gewöhnt, war vermutlich ziemlich überrascht und aufgeregt: Diese Musik war so prachtvoll und so viel reicher instrumentiert! Als Erzählung von Vertrauen und Verrat, Liebe und Verzweiflung, Angst, Schmerz und der Hoffnung auf Gnade und Erlösung verlieh sie der Leidensgeschichte Jesu beinahe Ähnlichkeit mit einer Oper über die Abgründe des irdischen Daseins, die der Mensch jedoch durch Gottvertrauen überwinden kann. Zwar steht die Johannes-Passion heute eher im Schatten von Bachs viel berühmterer Matthäus-Passion – ihrer mitreißenden Schönheit und bewegenden Klangsprache tut dies jedoch kein Abbruch.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Das wohltemperierte Klavier II</title>
-      <link>https://walse.cz/program/20260329-aimard/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260329-aimard/</guid>
-      <description>&lt;p&gt;Johann Sebastian Bach&lt;/p&gt;
-&lt;p&gt;Das wohltemperierte Klavier, Band II BWV 870–893&lt;/p&gt;
-&lt;p&gt;Vor einigen Jahren nahm Pierre-Laurent Aimard eigens ein Sabbatical, um sich ohne Ablenkungen durch den Konzertbetrieb dem ersten Buch von Bachs Wohltemperiertem Klavier zu widmen. Nun hat er sich mit ähnlicher Hingabe den zweiten Teil des Meisterwerks vorgenommen und interpretiert im Pierre Boulez Saal die 24 Präludien und Fugen, in denen architektonische Strenge und grenzenlose kompositorische Fantasie eine atemberaubende Verbindung eingehen.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Der Rosenkavalier</title>
-      <link>https://walse.cz/program/20260328-rosenkavalier/</link>
+      <link>http://localhost:1313/program/20260328-rosenkavalier/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260328-rosenkavalier/</guid>
+      <guid>http://localhost:1313/program/20260328-rosenkavalier/</guid>
       <description>&lt;p&gt;Po archaicky dramatických jednoaktovkách Salome a Elektra hledal Richard Strauss pro svou další operu lehčí, veselejší námět ve stylu Mozartových operních komedií – což byl záměr, s nímž se rád ztotožnil i Hugo von Hofmannsthal. Ve svém libretu vytvořil umělou rokokovou Vídeň s přesvědčivými, ale smyšlenými zvyky a dialekty, kterou Strauss na hudební straně ještě vylepšil anachronickými valčíky. V tomto fantazijním Vídni plném radosti ze života, frašek a tradičních třídních rozdílů, ale také plném deprese a morbidity se odráží nejen 18. století, ale především Belle Époque, která se chýlila ke konci. Straussova partitura tak opět nabízí celou bohatost orchestrálních barev, téměř bezuzdné rozkošování, které vrcholí v závěrečném triu, které je z hlediska hudební krásy nepřekonatelné, ale také ukazuje hluboké zlomy. Jen několik let před rozpadem Rakousko-Uherska se Růžový kavalír stává rozloučením s celou epochou.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Die Nase</title>
-      <link>https://walse.cz/program/20260327-ko-nase/</link>
+      <link>http://localhost:1313/program/20260327-ko-nase/</link>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260327-ko-nase/</guid>
+      <guid>http://localhost:1313/program/20260327-ko-nase/</guid>
       <description>&lt;p&gt;To nebude dobre.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -567,21 +444,21 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260327-ko-nase/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260327-ko-nase/images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260327-ko-nase/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260327-ko-nase/images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tristan und Isolde</title>
-      <link>https://walse.cz/program/20260309-met-tristan/</link>
+      <link>http://localhost:1313/program/20260309-met-tristan/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260309-met-tristan/</guid>
+      <guid>http://localhost:1313/program/20260309-met-tristan/</guid>
       <description>MET Radio 9.3., MET kino 21.3.</description>
     </item>
     <item>
       <title>Prodaná nevěsta</title>
-      <link>https://walse.cz/opera/20260304-nd-prodana-nevesta/</link>
+      <link>http://localhost:1313/program/20260304-nd-prodana-nevesta/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20260304-nd-prodana-nevesta/</guid>
+      <guid>http://localhost:1313/program/20260304-nd-prodana-nevesta/</guid>
       <description>Bedřich Smetana: 
  Prodaná nevěsta&lt;br&gt;
  ND.
@@ -676,23 +553,25 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id=&#34;wotan-souhlasí-s-libuší-hansenova-šmíra-atentát-na-prodanou-nevěstu-v-národní-opičárně&#34;&gt;Wotan souhlasí s Libuší: Hansenova šmíra. Atentát na Prodanou nevěstu v Národní opičárně&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.libuse-journal.com/art-reviews-1/2022/hansenova-%C5%A1m%C3%ADra-atent%C3%A1t-na-prodanou-nev%C4%9Bstu-v-n%C3%A1rodn%C3%AD-opi%C4%8D%C3%A1rn%C4%9B/&#34;&gt;Recenze&lt;/a&gt; repríz konaných 2. a 4. 6. 2022 v Národním divadle&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dido a Aeneas</title>
-      <link>https://walse.cz/opera/20260225-nd-dido/</link>
+      <link>http://localhost:1313/opera/20260225-nd-dido/</link>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20260225-nd-dido/</guid>
+      <guid>http://localhost:1313/opera/20260225-nd-dido/</guid>
       <description>&lt;p&gt;Mistrovské dílo barokní opery, plné emocí a tajemství. Dido a Aeneas, ve světě i u nás neznámější dílo Henryho Purcella, je intimním a melancholickým hudebním ztvárněním Vergiliova příběhu o osudové lásce královny Dido a trójského hrdiny Aenea.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20260225-nd-dido/images/photo-1.webp&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/opera/20260225-nd-dido/images/photo-1.webp&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Perla barokní hudby, jedna z nejstarších dodnes široce uváděných a populárních oper, první anglická opera světového formátu&amp;hellip; Tak a ještě jinak by se dalo charakterizovat nejslavnější dílo Henryho Purcella, o jehož vzniku ovšem nemáme zcela jasno a které se nám ani nedochovalo v úplnosti. Jeho premiéra se konala snad roku 1689 ve škole mladých šlechtičen, kterou provozoval v londýnské Chelsea taneční mistr a choreograf Josias Priest. Někteří ovšem tvrdí, že Purcell svou operu původně napsal přímo pro královský dvůr Jakuba II. nebo dokonce ještě dříve pro Karla II. Opera prý v sobě dokonce nesla skrytou a do mytologického příběhu zahalenou politickou alegorii, v níž například postavy čarodějnic měly symbolizovat v Anglii velmi neoblíbenou katolickou církev&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tannhauser</title>
-      <link>https://walse.cz/koncert/20260219-cf/</link>
+      <link>http://localhost:1313/koncert/20260219-cf/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20260219-cf/</guid>
+      <guid>http://localhost:1313/koncert/20260219-cf/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Fleur Barron, mezzosoprán&lt;/li&gt;
 &lt;li&gt;Semjon Byčkov, dirigent&lt;/li&gt;
@@ -720,29 +599,29 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-1.webp&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-1.webp&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260219-cf/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symfonie N 9</title>
-      <link>https://walse.cz/koncert/20260213-dresden-bruckner-9/</link>
+      <link>http://localhost:1313/koncert/20260213-dresden-bruckner-9/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20260213-dresden-bruckner-9/</guid>
+      <guid>http://localhost:1313/koncert/20260213-dresden-bruckner-9/</guid>
       <description>&lt;p&gt;This year’s Remembrance Concert commemorating the destruction of Dresden on 13 February 1945 features Igor Stravinsky’s »Mass«, a deliberately sober, liturgically reduced Mass setting. The composer did not produce a bombastic celebration of Christ’s sacrifice but rather a piece of quiet contemplation. Anton Bruckner’s Ninth feels rather like a testimonial. The composer dedicated the symphony to »our dear Lord« as an act of the deepest devotion. The three completed movements take us on an emotional journey from loss and devastation to hope before the unfinished work fades into silence. Daniele Gatti unites these two compositions to create a poignant tapestry of mourning, remembrance and contemporary spirituality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zlato Rýna</title>
-      <link>https://walse.cz/opera/20260212-nd-zlato-ryna/</link>
+      <link>http://localhost:1313/opera/20260212-nd-zlato-ryna/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20260212-nd-zlato-ryna/</guid>
+      <guid>http://localhost:1313/opera/20260212-nd-zlato-ryna/</guid>
       <description>Zase dokurví Wagnera, tentokrát pořádně.</description>
     </item>
     <item>
       <title>Ein Deutsches Requiem</title>
-      <link>https://walse.cz/koncert/20260125-brahms-deutshes-requiem/</link>
+      <link>http://localhost:1313/koncert/20260125-brahms-deutshes-requiem/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20260125-brahms-deutshes-requiem/</guid>
+      <guid>http://localhost:1313/koncert/20260125-brahms-deutshes-requiem/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -769,7 +648,7 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260125-brahms-deutshes-requiem/images/brahms-2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/koncert/20260125-brahms-deutshes-requiem/images/brahms-2.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;german-and-english-text&#34;&gt;German and English text&lt;/h3&gt;
 &lt;p&gt;The German text below was selected by Brahms from the Lutheran Bible. The English is from the King James Bible.&lt;/p&gt;
 &lt;table&gt;
@@ -911,118 +790,74 @@
     </item>
     <item>
       <title>Lohengrin</title>
-      <link>https://walse.cz/opera/20260124-staatsoper-lohengrin/</link>
+      <link>http://localhost:1313/opera/20260124-staatsoper-lohengrin/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20260124-staatsoper-lohengrin/</guid>
+      <guid>http://localhost:1313/opera/20260124-staatsoper-lohengrin/</guid>
       <description>Kancelářský zmar</description>
     </item>
     <item>
       <title>Tristan und Isolde</title>
-      <link>https://walse.cz/opera/20260119-liceu-tristan/</link>
+      <link>http://localhost:1313/opera/20260119-liceu-tristan/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20260119-liceu-tristan/</guid>
+      <guid>http://localhost:1313/opera/20260119-liceu-tristan/</guid>
       <description>Debut století</description>
     </item>
     <item>
       <title>Gotterdammerung</title>
-      <link>https://walse.cz/opera/20251003-staatsoper-gotterdammerung/</link>
+      <link>http://localhost:1313/opera/20251003-staatsoper-gotterdammerung/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20251003-staatsoper-gotterdammerung/</guid>
+      <guid>http://localhost:1313/opera/20251003-staatsoper-gotterdammerung/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Siegfried</title>
-      <link>https://walse.cz/opera/20251001-staatsoper-siegfried/</link>
+      <link>http://localhost:1313/opera/20251001-staatsoper-siegfried/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20251001-staatsoper-siegfried/</guid>
+      <guid>http://localhost:1313/opera/20251001-staatsoper-siegfried/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Die Valkure</title>
-      <link>https://walse.cz/opera/20250928-staatsoper-valkure/</link>
+      <link>http://localhost:1313/opera/20250928-staatsoper-valkure/</link>
       <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20250928-staatsoper-valkure/</guid>
+      <guid>http://localhost:1313/opera/20250928-staatsoper-valkure/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Das Rheingold</title>
-      <link>https://walse.cz/opera/20250927-staatsoper-rheingold/</link>
+      <link>http://localhost:1313/opera/20250927-staatsoper-rheingold/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20250927-staatsoper-rheingold/</guid>
+      <guid>http://localhost:1313/opera/20250927-staatsoper-rheingold/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Lohengrin</title>
-      <link>https://walse.cz/opera/20250804-bayreuth-lohengrin/</link>
+      <link>http://localhost:1313/opera/20250804-bayreuth-lohengrin/</link>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20250804-bayreuth-lohengrin/</guid>
+      <guid>http://localhost:1313/opera/20250804-bayreuth-lohengrin/</guid>
       <description>Labuť na trafostanici</description>
     </item>
     <item>
       <title>Tristan und Isolde</title>
-      <link>https://walse.cz/opera/20250803-bayreuth-tristan/</link>
+      <link>http://localhost:1313/opera/20250803-bayreuth-tristan/</link>
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20250803-bayreuth-tristan/</guid>
+      <guid>http://localhost:1313/opera/20250803-bayreuth-tristan/</guid>
       <description>Papírová Isolda</description>
     </item>
     <item>
-      <title>Růžový kavalír</title>
-      <link>https://walse.cz/opera/20241124-nd-rosenkavalier/</link>
-      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20241124-nd-rosenkavalier/</guid>
-      <description>.</description>
-    </item>
-    <item>
-      <title>hlasy mužské</title>
-      <link>https://walse.cz/text/hlasy-m/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/text/hlasy-m/</guid>
-      <description>&lt;h2 id=&#34;tenor&#34;&gt;Tenor&lt;/h2&gt;
-&lt;h3 id=&#34;heldentenor-cc&#34;&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Heldentenor&#34; title=&#34;Heldentenor&#34;&gt;Heldentenor&lt;/a&gt; (c–c’’)&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/File:Tenor_B_to_C.svg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tenor_B_to_C.svg/250px-Tenor_B_to_C.svg.png&#34;&gt;&lt;/a&gt;
--   Tristan in Wagners &lt;em&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Tristan_und_Isolde_(Oper)&#34; title=&#34;Tristan und Isolde (Oper)&#34;&gt;Tristan und Isolde&lt;/a&gt;&lt;/em&gt;
--   Titelpartie in Verdis &lt;em&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Otello_(Verdi)&#34; title=&#34;Otello (Verdi)&#34;&gt;Otello&lt;/a&gt;&lt;/em&gt;
--   Otello, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Otello&#34; title=&#34;Otello&#34;&gt;Otello&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://en.wikipedia.org/wiki/Giuseppe_Verdi&#34; title=&#34;Giuseppe Verdi&#34;&gt;Giuseppe Verdi&lt;/a&gt;)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[&lt;!-- raw HTML omitted --&gt;21&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
--   Siegfried, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen&#34; title=&#34;Der Ring des Nibelungen&#34;&gt;Der Ring des Nibelungen&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Wagner&#34; title=&#34;Richard Wagner&#34;&gt;Richard Wagner&lt;/a&gt;)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[&lt;!-- raw HTML omitted --&gt;21&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
--   Tristan, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tristan_und_Isolde&#34; title=&#34;Tristan und Isolde&#34;&gt;Tristan und Isolde&lt;/a&gt;&lt;/em&gt; (Richard Wagner)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[&lt;!-- raw HTML omitted --&gt;21&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
--   Tannhäuser, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tannh%C3%A4user_(opera)&#34; title=&#34;Tannhäuser (opera)&#34;&gt;Tannhäuser&lt;/a&gt;&lt;/em&gt; (Richard Wagner)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[&lt;!-- raw HTML omitted --&gt;21&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
--   Walther von Stolzing, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Die_Meistersinger&#34; title=&#34;Die Meistersinger&#34;&gt;Die Meistersinger&lt;/a&gt;&lt;/em&gt; (Richard Wagner)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[&lt;!-- raw HTML omitted --&gt;21&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hlasy ženské</title>
-      <link>https://walse.cz/text/hlasy-f/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/text/hlasy-f/</guid>
-      <description>&lt;h2 id=&#34;sopran&#34;&gt;Sopran&lt;/h2&gt;
-&lt;h3 id=&#34;hochdramatischer-sopran&#34;&gt;[Hochdramatischer Sopran]&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/File:Soprano_F_to_C.svg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Soprano_F_to_C.svg/250px-Soprano_F_to_C.svg.png&#34;&gt;&lt;/a&gt;
--   Leonie Rysanek, Jessie Norman,  Richard Wagner: Die Valkure: Sieglinde
--   Kirsten Flastad
-Richard Wagner: Die Valkure - Brunnhilde
-Richard Wagner: Tristan und Isolde - Isolde
--   Birgit Nilsson, Gwyneth Jones
--   Titelpartie in Strauss’ &lt;em&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Elektra_(Strauss)&#34; title=&#34;Elektra (Strauss)&#34;&gt;Elektra&lt;/a&gt;&lt;/em&gt;
--   Brünnhilde in Wagners &lt;em&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Die_Walk%C3%BCre&#34; title=&#34;Die Walküre&#34;&gt;Die Walküre&lt;/a&gt;&lt;/em&gt;
--   Isolde, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tristan_und_Isolde&#34; title=&#34;Tristan und Isolde&#34;&gt;Tristan und Isolde&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Wagner&#34; title=&#34;Richard Wagner&#34;&gt;Richard Wagner&lt;/a&gt;)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[&lt;!-- raw HTML omitted --&gt;15&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
--   Brünnhilde, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen&#34; title=&#34;Der Ring des Nibelungen&#34;&gt;Der Ring des Nibelungen&lt;/a&gt;&lt;/em&gt; (Richard Wagner)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[&lt;!-- raw HTML omitted --&gt;15&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
--   Turandot, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Turandot&#34; title=&#34;Turandot&#34;&gt;Turandot&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://en.wikipedia.org/wiki/Giacomo_Puccini&#34; title=&#34;Giacomo Puccini&#34;&gt;Giacomo Puccini&lt;/a&gt;)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[&lt;!-- raw HTML omitted --&gt;15&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
--   Senta, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder&#34; title=&#34;Der fliegende Holländer&#34;&gt;Der fliegende Holländer&lt;/a&gt;&lt;/em&gt; (Richard Wagner)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[&lt;!-- raw HTML omitted --&gt;15&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
--   Elektra, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Elektra_(opera)&#34; title=&#34;Elektra (opera)&#34;&gt;Elektra&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Strauss&#34; title=&#34;Richard Strauss&#34;&gt;Richard Strauss&lt;/a&gt;)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[&lt;!-- raw HTML omitted --&gt;16&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>o wotanovi</title>
-      <link>https://walse.cz/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;kontakt: &lt;a href=&#34;mailto:r.b.baloun@gmail.com&#34;&gt;email&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/about/images/hans-hotter-wotan-walkure-1955.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/about/images/hans-hotter-wotan-walkure-1955.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>odkazy</title>
-      <link>https://walse.cz/odkazy/</link>
+      <link>http://localhost:1313/odkazy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/odkazy/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/odkazy/images/hans-hotter-as-wotan.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/odkazy/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/odkazy/images/hans-hotter-as-wotan.jpg&#34;&gt;&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -1272,7 +1107,7 @@ Richard Wagner: Tristan und Isolde - Isolde
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Francie&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Jinde&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
@@ -1281,28 +1116,16 @@ Richard Wagner: Tristan und Isolde - Isolde
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/operaparis.jpg&#34; height=&#34;50px&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/royal.jpg&#34; height=&#34;50px&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.operadeparis.fr/en&#34;&gt;Opera National de Paris&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.rbo.org.uk/&#34;&gt;Royal Balet and Orchestra London&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/aix.jpg&#34; height=&#34;50px&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/concertgebouw.jpg&#34; height=&#34;50px&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://festival-aix.com/en&#34;&gt;Festival d&amp;rsquo;Aix-en-Provence&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.concertgebouw.nl/&#34;&gt;Het Concertgebouw&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Španělsko&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;images/liceu.jpg&#34; height=&#34;50px&#34;/&gt; 
@@ -1310,34 +1133,10 @@ Richard Wagner: Tristan und Isolde - Isolde
 &lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.liceubarcelona.cat/ca&#34;&gt;Liceu Barcelona&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/teatroreal.jpg&#34; height=&#34;50px&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/aix.jpg&#34; height=&#34;50px&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.teatroreal.es/en&#34;&gt;Teatro Real&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Holandsko&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/nl-opera.jpg&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.operaballet.nl/en&#34;&gt;Nationale Opera &amp;amp; Ballet&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/concertgebouw.jpg&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.concertgebouw.nl/&#34;&gt;Het Concertgebouw&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://festival-aix.com/en&#34;&gt;Festivel d&amp;rsquo;Aix-en-Provence&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1362,42 +1161,6 @@ Richard Wagner: Tristan und Isolde - Isolde
 &lt;/figure&gt;
 &lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.metopera.org/calendar&#34;&gt;MET&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Švýcarsko&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/opernhaus.jpg&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.opernhaus.ch/spielplan/kalendarium/&#34;&gt;Opernhaus Zurich&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/tonhalle.jpg&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.tonhalle-orchester.ch/en/concerts/kalender/&#34;&gt;Tonhalle Zurich&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/lucerne.jpg&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.lucernefestival.ch/en/tickets/program&#34;&gt;Lucerne Festival&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/lausanne.jpg&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.opera-lausanne.ch/en/&#34;&gt;Opera Lausanne&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;

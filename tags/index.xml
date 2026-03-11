@@ -2,344 +2,274 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>témata on Walse</title>
-    <link>https://walse.cz/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in témata on Walse</description>
     <image>
       <title>Walse</title>
-      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://walse.cz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bayreuth</title>
-      <link>https://walse.cz/tags/bayreuth/</link>
+      <link>http://localhost:1313/tags/bayreuth/</link>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/bayreuth/</guid>
+      <guid>http://localhost:1313/tags/bayreuth/</guid>
       <description></description>
     </item>
     <item>
       <title>Opera</title>
-      <link>https://walse.cz/tags/opera/</link>
+      <link>http://localhost:1313/tags/opera/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/opera/</guid>
+      <guid>http://localhost:1313/tags/opera/</guid>
       <description></description>
     </item>
     <item>
       <title>Rienzi</title>
-      <link>https://walse.cz/tags/rienzi/</link>
+      <link>http://localhost:1313/tags/rienzi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/rienzi/</guid>
+      <guid>http://localhost:1313/tags/rienzi/</guid>
       <description></description>
     </item>
     <item>
       <title>Wagner</title>
-      <link>https://walse.cz/tags/wagner/</link>
+      <link>http://localhost:1313/tags/wagner/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/wagner/</guid>
+      <guid>http://localhost:1313/tags/wagner/</guid>
       <description></description>
     </item>
     <item>
       <title>Česká Filharmonie</title>
-      <link>https://walse.cz/tags/%C4%8Desk%C3%A1-filharmonie/</link>
+      <link>http://localhost:1313/tags/%C4%8Desk%C3%A1-filharmonie/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/%C4%8Desk%C3%A1-filharmonie/</guid>
+      <guid>http://localhost:1313/tags/%C4%8Desk%C3%A1-filharmonie/</guid>
       <description></description>
     </item>
     <item>
       <title>Hannigan</title>
-      <link>https://walse.cz/tags/hannigan/</link>
+      <link>http://localhost:1313/tags/hannigan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/hannigan/</guid>
+      <guid>http://localhost:1313/tags/hannigan/</guid>
       <description></description>
     </item>
     <item>
       <title>Koncert</title>
-      <link>https://walse.cz/tags/koncert/</link>
+      <link>http://localhost:1313/tags/koncert/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/koncert/</guid>
+      <guid>http://localhost:1313/tags/koncert/</guid>
       <description></description>
     </item>
     <item>
       <title>Pražské Jaro</title>
-      <link>https://walse.cz/tags/pra%C5%BEsk%C3%A9-jaro/</link>
+      <link>http://localhost:1313/tags/pra%C5%BEsk%C3%A9-jaro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/pra%C5%BEsk%C3%A9-jaro/</guid>
+      <guid>http://localhost:1313/tags/pra%C5%BEsk%C3%A9-jaro/</guid>
       <description></description>
     </item>
     <item>
       <title>Dvořák</title>
-      <link>https://walse.cz/tags/dvo%C5%99%C3%A1k/</link>
+      <link>http://localhost:1313/tags/dvo%C5%99%C3%A1k/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/dvo%C5%99%C3%A1k/</guid>
+      <guid>http://localhost:1313/tags/dvo%C5%99%C3%A1k/</guid>
       <description></description>
     </item>
     <item>
       <title>ND</title>
-      <link>https://walse.cz/tags/nd/</link>
+      <link>http://localhost:1313/tags/nd/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/nd/</guid>
+      <guid>http://localhost:1313/tags/nd/</guid>
       <description></description>
     </item>
     <item>
       <title>Rusalka</title>
-      <link>https://walse.cz/tags/rusalka/</link>
+      <link>http://localhost:1313/tags/rusalka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/rusalka/</guid>
+      <guid>http://localhost:1313/tags/rusalka/</guid>
       <description></description>
     </item>
     <item>
       <title>Berlin</title>
-      <link>https://walse.cz/tags/berlin/</link>
+      <link>http://localhost:1313/tags/berlin/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/berlin/</guid>
+      <guid>http://localhost:1313/tags/berlin/</guid>
       <description></description>
     </item>
     <item>
       <title>Strauss</title>
-      <link>https://walse.cz/tags/strauss/</link>
-      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/strauss/</guid>
+      <link>http://localhost:1313/tags/strauss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/strauss/</guid>
       <description></description>
     </item>
     <item>
       <title>Quartet</title>
-      <link>https://walse.cz/tags/quartet/</link>
+      <link>http://localhost:1313/tags/quartet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/quartet/</guid>
+      <guid>http://localhost:1313/tags/quartet/</guid>
       <description></description>
     </item>
     <item>
       <title>Hrůša</title>
-      <link>https://walse.cz/tags/hr%C5%AF%C5%A1a/</link>
+      <link>http://localhost:1313/tags/hr%C5%AF%C5%A1a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/hr%C5%AF%C5%A1a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arabella</title>
-      <link>https://walse.cz/tags/arabella/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/arabella/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Opernhaus Zurich</title>
-      <link>https://walse.cz/tags/opernhaus-zurich/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/opernhaus-zurich/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>La Fenice</title>
-      <link>https://walse.cz/tags/la-fenice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/la-fenice/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lohengrin</title>
-      <link>https://walse.cz/tags/lohengrin/</link>
-      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/lohengrin/</guid>
+      <guid>http://localhost:1313/tags/hr%C5%AF%C5%A1a/</guid>
       <description></description>
     </item>
     <item>
       <title>Parsifal</title>
-      <link>https://walse.cz/tags/parsifal/</link>
+      <link>http://localhost:1313/tags/parsifal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/parsifal/</guid>
+      <guid>http://localhost:1313/tags/parsifal/</guid>
       <description></description>
     </item>
     <item>
       <title>Semper</title>
-      <link>https://walse.cz/tags/semper/</link>
+      <link>http://localhost:1313/tags/semper/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/semper/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bach</title>
-      <link>https://walse.cz/tags/bach/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/bach/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Johannes-Passion</title>
-      <link>https://walse.cz/tags/johannes-passion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/johannes-passion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Konzerthaus</title>
-      <link>https://walse.cz/tags/konzerthaus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/konzerthaus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aimard</title>
-      <link>https://walse.cz/tags/aimard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/aimard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Boulez Saal</title>
-      <link>https://walse.cz/tags/boulez-saal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/boulez-saal/</guid>
+      <guid>http://localhost:1313/tags/semper/</guid>
       <description></description>
     </item>
     <item>
       <title>Rosenkavalier</title>
-      <link>https://walse.cz/tags/rosenkavalier/</link>
-      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/rosenkavalier/</guid>
+      <link>http://localhost:1313/tags/rosenkavalier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rosenkavalier/</guid>
       <description></description>
     </item>
     <item>
       <title>Staatsoper</title>
-      <link>https://walse.cz/tags/staatsoper/</link>
+      <link>http://localhost:1313/tags/staatsoper/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/staatsoper/</guid>
+      <guid>http://localhost:1313/tags/staatsoper/</guid>
       <description></description>
     </item>
     <item>
       <title>Komische Oper</title>
-      <link>https://walse.cz/tags/komische-oper/</link>
+      <link>http://localhost:1313/tags/komische-oper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/komische-oper/</guid>
+      <guid>http://localhost:1313/tags/komische-oper/</guid>
       <description></description>
     </item>
     <item>
       <title>Nase</title>
-      <link>https://walse.cz/tags/nase/</link>
+      <link>http://localhost:1313/tags/nase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/nase/</guid>
+      <guid>http://localhost:1313/tags/nase/</guid>
       <description></description>
     </item>
     <item>
       <title>Schostakowitsch</title>
-      <link>https://walse.cz/tags/schostakowitsch/</link>
+      <link>http://localhost:1313/tags/schostakowitsch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/schostakowitsch/</guid>
+      <guid>http://localhost:1313/tags/schostakowitsch/</guid>
       <description></description>
     </item>
     <item>
       <title>MET</title>
-      <link>https://walse.cz/tags/met/</link>
+      <link>http://localhost:1313/tags/met/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/met/</guid>
+      <guid>http://localhost:1313/tags/met/</guid>
       <description></description>
     </item>
     <item>
       <title>Tristan</title>
-      <link>https://walse.cz/tags/tristan/</link>
+      <link>http://localhost:1313/tags/tristan/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/tristan/</guid>
+      <guid>http://localhost:1313/tags/tristan/</guid>
       <description></description>
     </item>
     <item>
       <title>Prodaná Nevěsta</title>
-      <link>https://walse.cz/tags/prodan%C3%A1-nev%C4%9Bsta/</link>
+      <link>http://localhost:1313/tags/prodan%C3%A1-nev%C4%9Bsta/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/prodan%C3%A1-nev%C4%9Bsta/</guid>
+      <guid>http://localhost:1313/tags/prodan%C3%A1-nev%C4%9Bsta/</guid>
       <description></description>
     </item>
     <item>
       <title>Smetana</title>
-      <link>https://walse.cz/tags/smetana/</link>
+      <link>http://localhost:1313/tags/smetana/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/smetana/</guid>
+      <guid>http://localhost:1313/tags/smetana/</guid>
       <description></description>
     </item>
     <item>
       <title>Purcell</title>
-      <link>https://walse.cz/tags/purcell/</link>
+      <link>http://localhost:1313/tags/purcell/</link>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/purcell/</guid>
+      <guid>http://localhost:1313/tags/purcell/</guid>
       <description></description>
     </item>
     <item>
       <title>Byčkov</title>
-      <link>https://walse.cz/tags/by%C4%8Dkov/</link>
+      <link>http://localhost:1313/tags/by%C4%8Dkov/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/by%C4%8Dkov/</guid>
+      <guid>http://localhost:1313/tags/by%C4%8Dkov/</guid>
       <description></description>
     </item>
     <item>
       <title>Bruckner</title>
-      <link>https://walse.cz/tags/bruckner/</link>
+      <link>http://localhost:1313/tags/bruckner/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/bruckner/</guid>
+      <guid>http://localhost:1313/tags/bruckner/</guid>
       <description></description>
     </item>
     <item>
       <title>Symphony</title>
-      <link>https://walse.cz/tags/symphony/</link>
+      <link>http://localhost:1313/tags/symphony/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/symphony/</guid>
+      <guid>http://localhost:1313/tags/symphony/</guid>
       <description></description>
     </item>
     <item>
       <title>Ring</title>
-      <link>https://walse.cz/tags/ring/</link>
+      <link>http://localhost:1313/tags/ring/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/ring/</guid>
+      <guid>http://localhost:1313/tags/ring/</guid>
       <description></description>
     </item>
     <item>
       <title>Brahms</title>
-      <link>https://walse.cz/tags/brahms/</link>
+      <link>http://localhost:1313/tags/brahms/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/brahms/</guid>
+      <guid>http://localhost:1313/tags/brahms/</guid>
       <description></description>
     </item>
     <item>
       <title>Thielemann</title>
-      <link>https://walse.cz/tags/thielemann/</link>
+      <link>http://localhost:1313/tags/thielemann/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/thielemann/</guid>
+      <guid>http://localhost:1313/tags/thielemann/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lohengrin</title>
+      <link>http://localhost:1313/tags/lohengrin/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lohengrin/</guid>
       <description></description>
     </item>
     <item>
       <title>Liceu</title>
-      <link>https://walse.cz/tags/liceu/</link>
+      <link>http://localhost:1313/tags/liceu/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/liceu/</guid>
+      <guid>http://localhost:1313/tags/liceu/</guid>
       <description></description>
     </item>
     <item>
       <title>Rheingold</title>
-      <link>https://walse.cz/tags/rheingold/</link>
+      <link>http://localhost:1313/tags/rheingold/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/rheingold/</guid>
+      <guid>http://localhost:1313/tags/rheingold/</guid>
       <description></description>
     </item>
     <item>
       <title>Siegfried</title>
-      <link>https://walse.cz/tags/siegfried/</link>
+      <link>http://localhost:1313/tags/siegfried/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/siegfried/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Státní Opera</title>
-      <link>https://walse.cz/tags/st%C3%A1tn%C3%AD-opera/</link>
-      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/st%C3%A1tn%C3%AD-opera/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hlasy</title>
-      <link>https://walse.cz/tags/hlasy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/hlasy/</guid>
+      <guid>http://localhost:1313/tags/siegfried/</guid>
       <description></description>
     </item>
   </channel>

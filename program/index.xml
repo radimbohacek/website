@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>program on Walse</title>
-    <link>https://walse.cz/program/</link>
+    <link>http://localhost:1313/program/</link>
     <description>Recent content in program on Walse</description>
     <image>
       <title>Walse</title>
-      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://walse.cz/program/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/program/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rienzi</title>
-      <link>https://walse.cz/program/20260803-bayreuth-rienzi/</link>
+      <link>http://localhost:1313/program/20260803-bayreuth-rienzi/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260803-bayreuth-rienzi/</guid>
+      <guid>http://localhost:1313/program/20260803-bayreuth-rienzi/</guid>
       <description>Richard Wagner: 
  Rienzi&lt;br&gt;
  Bayreuther Festspiele.
@@ -33,9 +33,9 @@
     </item>
     <item>
       <title>Česká filharmonie</title>
-      <link>https://walse.cz/program/20260602-cf-hannigan/</link>
+      <link>http://localhost:1313/program/20260602-cf-hannigan/</link>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260602-cf-hannigan/</guid>
+      <guid>http://localhost:1313/program/20260602-cf-hannigan/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -62,9 +62,9 @@
     </item>
     <item>
       <title>Luigi Nono mezi aeroplány</title>
-      <link>https://walse.cz/program/20260601-cf-ntm/</link>
+      <link>http://localhost:1313/program/20260601-cf-ntm/</link>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260601-cf-ntm/</guid>
+      <guid>http://localhost:1313/program/20260601-cf-ntm/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -89,16 +89,16 @@
     </item>
     <item>
       <title>Barbara Hannigan Masterclass</title>
-      <link>https://walse.cz/program/20260531-hannigan-masterclass/</link>
+      <link>http://localhost:1313/program/20260531-hannigan-masterclass/</link>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260531-hannigan-masterclass/</guid>
+      <guid>http://localhost:1313/program/20260531-hannigan-masterclass/</guid>
       <description></description>
     </item>
     <item>
       <title>Rusalka</title>
-      <link>https://walse.cz/program/20260530-nd-rusalka/</link>
+      <link>http://localhost:1313/program/20260530-nd-rusalka/</link>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260530-nd-rusalka/</guid>
+      <guid>http://localhost:1313/program/20260530-nd-rusalka/</guid>
       <description>Antonín Dvořák: 
  Rusalka&lt;br&gt;
  ND.
@@ -192,16 +192,16 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-2.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260530-nd-rusalka/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260530-nd-rusalka/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Die schweigsame Frau</title>
-      <link>https://walse.cz/program/20260525-schweigsame-frau/</link>
+      <link>http://localhost:1313/program/20260525-schweigsame-frau/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260525-schweigsame-frau/</guid>
+      <guid>http://localhost:1313/program/20260525-schweigsame-frau/</guid>
       <description>Richard Strauss: 
  Die schweigsame Frau&lt;br&gt;
  Staatsoper Unter den Linden.
@@ -217,9 +217,9 @@
     </item>
     <item>
       <title>Barbara Hannigan a Belcea Quartet</title>
-      <link>https://walse.cz/program/20260524-hannigan/</link>
+      <link>http://localhost:1313/program/20260524-hannigan/</link>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260524-hannigan/</guid>
+      <guid>http://localhost:1313/program/20260524-hannigan/</guid>
       <description>&lt;p&gt;Program&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Anton Webern: Pět vět op. 5&lt;/li&gt;
@@ -240,9 +240,9 @@
     </item>
     <item>
       <title>Česká filharmonie</title>
-      <link>https://walse.cz/program/20260519-cf-hrusa/</link>
+      <link>http://localhost:1313/program/20260519-cf-hrusa/</link>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260519-cf-hrusa/</guid>
+      <guid>http://localhost:1313/program/20260519-cf-hrusa/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -256,106 +256,10 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/photo-1.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Arabella</title>
-      <link>https://walse.cz/program/20260422-zurich-arabella/</link>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260422-zurich-arabella/</guid>
-      <description>&lt;p&gt;Esesáci na scéně.&lt;/p&gt;
-&lt;p&gt;Although she is surrounded by many admirers, Arabella dreams only of the «right one». She finds him in Mandryka, the Croatian landowner. Opera history’s final idealized marriage of love was written on the precipice of disaster: The opera dates to a time of deep social insecurity. The operetta-like tone of Strauss’ «Lyrischer Komödie» is strangely fractured. When it premiered in Dresden in 1933, it was instrumentalized by the Nazis for propaganda purposes. Director Robert Carsen doesn’t ignore the socio-political context and relocates the plot to the height of the Third Reich. The cast includes Diana Damrau, Michael Volle, and Pavol Breslik.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lohengrin</title>
-      <link>https://walse.cz/program/20260415-fenice-lohengrin/</link>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260415-fenice-lohengrin/</guid>
-      <description>&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Conductor&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Markus Stenz&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Director&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Damiano Michieletto&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;revival direction by Amanda Haberpeuntner&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Dramaturg&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Mattia Palma&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Set designer&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Paolo Fantin&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Costum designer&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Carla Teti&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Lighting designer&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Alessandro Carletti&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;La Fenice Orchestra &amp;amp; Choir&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Chorus Master&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Alfonso Caiani&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Hungarian National Male Choir&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Chorus Master&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Richárd Riederauer&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Heinrich der Vogler&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Andrea Silvestrelli&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Lohengrin&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Brian Jagde&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Elsa von Brabant&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Dorothea Herbert&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Friedrich von Telramund&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Claudio Otelli&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Ortrud&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Chiara Mogini&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Der Heerrufer des Königs&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Äneas Humm&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Herzog Gottfried&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Pietro Ceccato, Leo Mannise&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</description>
-    </item>
-    <item>
       <title>Parsifal</title>
-      <link>https://walse.cz/program/20260331-semper-parsifal/</link>
+      <link>http://localhost:1313/program/20260331-semper-parsifal/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260331-semper-parsifal/</guid>
+      <guid>http://localhost:1313/program/20260331-semper-parsifal/</guid>
       <description>Richard Wagner: 
  Parsifal&lt;br&gt;
  Semperoper Dresdner.
@@ -442,44 +346,17 @@
 &lt;img loading=&#34;lazy&#34; src=&#34;images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Johannes-Passion</title>
-      <link>https://walse.cz/program/20260330-johannes-passion/</link>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260330-johannes-passion/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;RIAS Kammerchor Berlin&lt;/li&gt;
-&lt;li&gt;Justin Doyle Dirigent&lt;/li&gt;
-&lt;li&gt;Benedikt Kristjánsson Tenor (Evangelist)&lt;/li&gt;
-&lt;li&gt;Martin Häßler Bass (Jesusworte)&lt;/li&gt;
-&lt;li&gt;Katharina Konradi Sopran&lt;/li&gt;
-&lt;li&gt;Sarah Romberger Alt&lt;/li&gt;
-&lt;li&gt;Julian Habermann Tenor&lt;/li&gt;
-&lt;li&gt;Marcus Farnsworth Bass&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Echt alt und höchst lebendig: Wie mitreißend Musik vom 17. bis frühen 19. Jahrhundert klingen kann, zeigt die Akademie für Alte Musik Berlin seit vielen Saisons in ihrer eigenen Reihe am Konzerthaus Berlin.&lt;/p&gt;
-&lt;p&gt;An Karfreitag 1724 erklang in der Leipziger Nikolaikirche mit Bachs Johannes-Passion die erste Passions-Musik des neuen Thomaskantors. Die Gemeinde, bisher an Johann Walters schlichtes Werk von 1530 gewöhnt, war vermutlich ziemlich überrascht und aufgeregt: Diese Musik war so prachtvoll und so viel reicher instrumentiert! Als Erzählung von Vertrauen und Verrat, Liebe und Verzweiflung, Angst, Schmerz und der Hoffnung auf Gnade und Erlösung verlieh sie der Leidensgeschichte Jesu beinahe Ähnlichkeit mit einer Oper über die Abgründe des irdischen Daseins, die der Mensch jedoch durch Gottvertrauen überwinden kann. Zwar steht die Johannes-Passion heute eher im Schatten von Bachs viel berühmterer Matthäus-Passion – ihrer mitreißenden Schönheit und bewegenden Klangsprache tut dies jedoch kein Abbruch.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Das wohltemperierte Klavier II</title>
-      <link>https://walse.cz/program/20260329-aimard/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260329-aimard/</guid>
-      <description>&lt;p&gt;Johann Sebastian Bach&lt;/p&gt;
-&lt;p&gt;Das wohltemperierte Klavier, Band II BWV 870–893&lt;/p&gt;
-&lt;p&gt;Vor einigen Jahren nahm Pierre-Laurent Aimard eigens ein Sabbatical, um sich ohne Ablenkungen durch den Konzertbetrieb dem ersten Buch von Bachs Wohltemperiertem Klavier zu widmen. Nun hat er sich mit ähnlicher Hingabe den zweiten Teil des Meisterwerks vorgenommen und interpretiert im Pierre Boulez Saal die 24 Präludien und Fugen, in denen architektonische Strenge und grenzenlose kompositorische Fantasie eine atemberaubende Verbindung eingehen.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Der Rosenkavalier</title>
-      <link>https://walse.cz/program/20260328-rosenkavalier/</link>
+      <link>http://localhost:1313/program/20260328-rosenkavalier/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260328-rosenkavalier/</guid>
+      <guid>http://localhost:1313/program/20260328-rosenkavalier/</guid>
       <description>&lt;p&gt;Po archaicky dramatických jednoaktovkách Salome a Elektra hledal Richard Strauss pro svou další operu lehčí, veselejší námět ve stylu Mozartových operních komedií – což byl záměr, s nímž se rád ztotožnil i Hugo von Hofmannsthal. Ve svém libretu vytvořil umělou rokokovou Vídeň s přesvědčivými, ale smyšlenými zvyky a dialekty, kterou Strauss na hudební straně ještě vylepšil anachronickými valčíky. V tomto fantazijním Vídni plném radosti ze života, frašek a tradičních třídních rozdílů, ale také plném deprese a morbidity se odráží nejen 18. století, ale především Belle Époque, která se chýlila ke konci. Straussova partitura tak opět nabízí celou bohatost orchestrálních barev, téměř bezuzdné rozkošování, které vrcholí v závěrečném triu, které je z hlediska hudební krásy nepřekonatelné, ale také ukazuje hluboké zlomy. Jen několik let před rozpadem Rakousko-Uherska se Růžový kavalír stává rozloučením s celou epochou.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Die Nase</title>
-      <link>https://walse.cz/program/20260327-ko-nase/</link>
+      <link>http://localhost:1313/program/20260327-ko-nase/</link>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260327-ko-nase/</guid>
+      <guid>http://localhost:1313/program/20260327-ko-nase/</guid>
       <description>&lt;p&gt;To nebude dobre.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -567,15 +444,119 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260327-ko-nase/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20260327-ko-nase/images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260327-ko-nase/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260327-ko-nase/images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tristan und Isolde</title>
-      <link>https://walse.cz/program/20260309-met-tristan/</link>
+      <link>http://localhost:1313/program/20260309-met-tristan/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260309-met-tristan/</guid>
+      <guid>http://localhost:1313/program/20260309-met-tristan/</guid>
       <description>MET Radio 9.3., MET kino 21.3.</description>
+    </item>
+    <item>
+      <title>Prodaná nevěsta</title>
+      <link>http://localhost:1313/program/20260304-nd-prodana-nevesta/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/program/20260304-nd-prodana-nevesta/</guid>
+      <description>Bedřich Smetana: 
+ Prodaná nevěsta&lt;br&gt;
+ ND.
+ Wednesday, March 4, 2026&lt;br&gt;
+ Režie: Alice Nellis&lt;br&gt; 
+ Orchestr ND,
+ Jaroslav Kyzlink&lt;br&gt;
+
+ &lt;br&gt;
+&lt;br&gt;
+
+&lt;p&gt;Kyzlink!&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dirigent&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jaroslav  Kyzlink&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mařenka&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Alžběta Poláčková&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mařenka 2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Doubravka Novotná&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jeník&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Peter Berger&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kecal&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Zdeněk Plech&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Vašek&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Josef Moravec&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ludmila / Esmeralda&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lucie Hájková&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Krušina / Indián&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jiří Hájek&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Háta&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Yvona Škvárová&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mícha&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;František Zahradníček&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Principál&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tomáš Kořínek&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Režie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Alice Nellis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Scéna a světelný design&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Matěj Cibulka&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kostýmy&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kateřina Štefková&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Choreografie / Pohybová spolupráce&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Klára Lidová&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Videoart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Michal Mocňák&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sbormistr&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lukáš Kozubík&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dramaturgie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ondřej Hučín&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260304-nd-prodana-nevesta/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

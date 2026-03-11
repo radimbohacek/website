@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bayreuth on Walse</title>
+    <link>https://walse.cz/tags/bayreuth/</link>
+    <description>Recent content in Bayreuth on Walse</description>
+    <image>
+      <title>Walse</title>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>cs</language>
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://walse.cz/tags/bayreuth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rienzi</title>
+      <link>https://walse.cz/program/20260803-bayreuth-rienzi/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/program/20260803-bayreuth-rienzi/</guid>
+      <description>Richard Wagner: 
+ Rienzi&lt;br&gt;
+ Bayreuther Festspiele.
+ Monday, August 3, 2026&lt;br&gt;
+ Režie: Šeredná Pardytka&lt;br&gt; 
+ Bayreuther Festspiele Orchester,
+ Nathalie Stutzmann&lt;br&gt;
+ Andreas Schager&lt;br&gt;
+ https://www.bayreuther-festspiele.de/programm/auffuehrungen/rienzi/&lt;br&gt;
+&lt;br&gt;
+
+&lt;p&gt;Rienzi, Wagnerova třetí opera, byla kdysi jeho největším úspěchem. Bayreuthská verze pro rok 2026 zastává tezi, že kdyby v roce 1871 vznikla „konečná“ verze, Rienzi by si zcela jistě našel své místo v bayreuthském kánonu děl „od Bludného Holanďana“. Deset děl takzvaného „bayreuthského kánonu“ totiž nevychází ani z poslední vůle, ani z rozhodujících formulací v zakládací listině Nadace Richarda Wagnera v Bayreuthu, ale výhradně z dopisů Wagnera králi Ludvíkovi II. Bavorskému z roku 1882.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lohengrin</title>
+      <link>https://walse.cz/opera/20250804-bayreuth-lohengrin/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20250804-bayreuth-lohengrin/</guid>
+      <description>Labuť na trafostanici</description>
+    </item>
+    <item>
+      <title>Tristan und Isolde</title>
+      <link>https://walse.cz/opera/20250803-bayreuth-tristan/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20250803-bayreuth-tristan/</guid>
+      <description>Papírová Isolda</description>
+    </item>
+  </channel>
+</rss>
