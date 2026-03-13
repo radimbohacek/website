@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bach on Walse</title>
-    <link>https://walse.cz/tags/bach/</link>
+    <link>http://localhost:1313/tags/bach/</link>
     <description>Recent content in Bach on Walse</description>
     <image>
       <title>Walse</title>
-      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://walse.cz/tags/bach/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bach/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Johannes-Passion</title>
-      <link>https://walse.cz/program/20260330-johannes-passion/</link>
+      <link>http://localhost:1313/program/20260330-johannes-passion/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260330-johannes-passion/</guid>
+      <guid>http://localhost:1313/program/20260330-johannes-passion/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;RIAS Kammerchor Berlin&lt;/li&gt;
 &lt;li&gt;Justin Doyle Dirigent&lt;/li&gt;
@@ -33,9 +33,9 @@
     </item>
     <item>
       <title>Das wohltemperierte Klavier II</title>
-      <link>https://walse.cz/program/20260329-aimard/</link>
+      <link>http://localhost:1313/program/20260329-aimard/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260329-aimard/</guid>
+      <guid>http://localhost:1313/program/20260329-aimard/</guid>
       <description>&lt;p&gt;Johann Sebastian Bach&lt;/p&gt;
 &lt;p&gt;Das wohltemperierte Klavier, Band II BWV 870–893&lt;/p&gt;
 &lt;p&gt;Vor einigen Jahren nahm Pierre-Laurent Aimard eigens ein Sabbatical, um sich ohne Ablenkungen durch den Konzertbetrieb dem ersten Buch von Bachs Wohltemperiertem Klavier zu widmen. Nun hat er sich mit ähnlicher Hingabe den zweiten Teil des Meisterwerks vorgenommen und interpretiert im Pierre Boulez Saal die 24 Präludien und Fugen, in denen architektonische Strenge und grenzenlose kompositorische Fantasie eine atemberaubende Verbindung eingehen.&lt;/p&gt;</description>
