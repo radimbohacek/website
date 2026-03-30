@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Slekyte on Walse</title>
+    <link>https://walse.cz/tags/slekyte/</link>
+    <description>Recent content in Slekyte on Walse</description>
+    <image>
+      <title>Walse</title>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+    </image>
+    <generator>Hugo -- 0.159.1</generator>
+    <language>cs</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://walse.cz/tags/slekyte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stravinsky, Schreker</title>
+      <link>https://walse.cz/koncert/20230401-boulez/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20230401-boulez/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Artists&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Giedrė Šlekytė&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Conductor&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Boulez Ensemble&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Igor Stravinsky&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Concerto in E-flat for Chamber Orchestra &amp;ldquo;Dumbarton Oaks&amp;rdquo;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Osvaldas Balakauskas&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Meridionale&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Franz Schreker&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chamber Symphony for 23 Instruments&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

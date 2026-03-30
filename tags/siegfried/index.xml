@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Siegfried on Walse</title>
+    <link>https://walse.cz/tags/siegfried/</link>
+    <description>Recent content in Siegfried on Walse</description>
+    <image>
+      <title>Walse</title>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+    </image>
+    <generator>Hugo -- 0.159.1</generator>
+    <language>cs</language>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://walse.cz/tags/siegfried/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siegfried</title>
+      <link>https://walse.cz/program/20260513-roh-siegfried/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/program/20260513-roh-siegfried/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Siegfried</title>
+      <link>https://walse.cz/opera/20251001-staatsoper-siegfried/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20251001-staatsoper-siegfried/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Siegfried</title>
+      <link>https://walse.cz/opera/20230408-staatsoper-siegfried/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20230408-staatsoper-siegfried/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Siegfried</title>
+      <link>https://walse.cz/opera/20221006-staatsoper-siegfried/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20221006-staatsoper-siegfried/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Siegfried</title>
+      <link>https://walse.cz/opera/20220514-wien-siegfried/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20220514-wien-siegfried/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Siegfried</title>
+      <link>https://walse.cz/opera/20211119-do-siegfried/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20211119-do-siegfried/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Siegfried</title>
+      <link>https://walse.cz/opera/19960321-lyric-siegfried/</link>
+      <pubDate>Thu, 21 Mar 1996 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/19960321-lyric-siegfried/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+  </channel>
+</rss>

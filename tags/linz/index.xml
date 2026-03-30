@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linz on Walse</title>
+    <link>https://walse.cz/tags/linz/</link>
+    <description>Recent content in Linz on Walse</description>
+    <image>
+      <title>Walse</title>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+    </image>
+    <generator>Hugo -- 0.159.1</generator>
+    <language>cs</language>
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://walse.cz/tags/linz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schubert und Bruckner: Zwei unvollendete Sinfonien</title>
+      <link>https://walse.cz/koncert/20241011-linz-bruckner/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20241011-linz-bruckner/</guid>
+      <description>Brucknerfest 2024</description>
+    </item>
+    <item>
+      <title>Bruckners Sinfonien 8 im Originalklang</title>
+      <link>https://walse.cz/koncert/20240920-linz-bruckner/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20240920-linz-bruckner/</guid>
+      <description>Brucknerfest 2024</description>
+    </item>
+    <item>
+      <title>Bruckners Sinfonien 9 im Originalklang</title>
+      <link>https://walse.cz/koncert/20241010-linz-bruckner/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20241010-linz-bruckner/</guid>
+      <description>Brucknerfest 2024</description>
+    </item>
+    <item>
+      <title>Bruckner im Mariendom</title>
+      <link>https://walse.cz/koncert/20241009-linz-bruckner/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20241009-linz-bruckner/</guid>
+      <description>Brucknerfest 2024</description>
+    </item>
+  </channel>
+</rss>
