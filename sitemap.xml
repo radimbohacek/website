@@ -89,10 +89,13 @@
     <loc>https://walse.cz/tags/siegfried/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/program/20260422-zurich-arabella/</loc>
+    <loc>https://walse.cz/opera/20260422-zurich-arabella/</loc>
     <lastmod>2026-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/arabella/</loc>
+    <lastmod>2026-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/</loc>
     <lastmod>2026-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/opernhaus-zurich/</loc>
@@ -101,14 +104,11 @@
     <loc>https://walse.cz/tags/la-fenice/</loc>
     <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/program/20260415-fenice-lohengrin/</loc>
+    <loc>https://walse.cz/opera/20260415-fenice-lohengrin/</loc>
     <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/lohengrin/</loc>
     <lastmod>2026-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://walse.cz/opera/</loc>
-    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/opera/20260331-semper-parsifal/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
@@ -1244,6 +1244,9 @@
     <loc>https://walse.cz/tags/%C5%A1ostakovi%C4%8D/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://walse.cz/opera/20010412-wien-parsifal/</loc>
+    <lastmod>2000-04-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://walse.cz/tags/berg/</loc>
     <lastmod>1999-12-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -1277,19 +1280,19 @@
     <loc>https://walse.cz/koncert/19991012-cso-barenboim-mahler-1/</loc>
     <lastmod>1999-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/opera/1999-06-24-sf-gotterdammerung/</loc>
+    <loc>https://walse.cz/opera/19990624-sf-gotterdammerung/</loc>
     <lastmod>1999-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/san-francisco-opera/</loc>
     <lastmod>1999-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/opera/1999-06-19-sf-walkure/</loc>
+    <loc>https://walse.cz/opera/19990622-sf-siegfried/</loc>
     <lastmod>1999-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/opera/1999-06-22-sf-siegfried/</loc>
-    <lastmod>1999-06-22T00:00:00+00:00</lastmod>
+    <loc>https://walse.cz/opera/19990619-sf-walkure/</loc>
+    <lastmod>1999-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/opera/1999-06-15-sf-rheingold/</loc>
+    <loc>https://walse.cz/opera/19990615-sf-rheingold/</loc>
     <lastmod>1999-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/koncert/19990114-cso-barenboim-brahms-2/</loc>
@@ -1319,7 +1322,7 @@
     <loc>https://walse.cz/koncert/19981112-cso-traub-rachmaninov-2/</loc>
     <lastmod>1998-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/opera/1998-11-06-sf-tristan/</loc>
+    <loc>https://walse.cz/opera/19981106-sf-tristan/</loc>
     <lastmod>1998-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/opera/19981102-lyric-ariadne/</loc>

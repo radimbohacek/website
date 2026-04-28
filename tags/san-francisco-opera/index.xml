@@ -9,43 +9,43 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.160.0</generator>
+    <generator>Hugo -- 0.160.1</generator>
     <language>cs</language>
     <lastBuildDate>Thu, 24 Jun 1999 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/tags/san-francisco-opera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gotterdammerung</title>
-      <link>https://walse.cz/opera/1999-06-24-sf-gotterdammerung/</link>
+      <link>https://walse.cz/opera/19990624-sf-gotterdammerung/</link>
       <pubDate>Thu, 24 Jun 1999 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/1999-06-24-sf-gotterdammerung/</guid>
-      <description>Der Ring des Nibelungen</description>
-    </item>
-    <item>
-      <title>Die Walkure</title>
-      <link>https://walse.cz/opera/1999-06-19-sf-walkure/</link>
-      <pubDate>Tue, 22 Jun 1999 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/1999-06-19-sf-walkure/</guid>
+      <guid>https://walse.cz/opera/19990624-sf-gotterdammerung/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Siegfried</title>
-      <link>https://walse.cz/opera/1999-06-22-sf-siegfried/</link>
+      <link>https://walse.cz/opera/19990622-sf-siegfried/</link>
       <pubDate>Tue, 22 Jun 1999 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/1999-06-22-sf-siegfried/</guid>
+      <guid>https://walse.cz/opera/19990622-sf-siegfried/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Die Walkure</title>
+      <link>https://walse.cz/opera/19990619-sf-walkure/</link>
+      <pubDate>Sat, 19 Jun 1999 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/19990619-sf-walkure/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Das Rheingold</title>
-      <link>https://walse.cz/opera/1999-06-15-sf-rheingold/</link>
+      <link>https://walse.cz/opera/19990615-sf-rheingold/</link>
       <pubDate>Tue, 15 Jun 1999 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/1999-06-15-sf-rheingold/</guid>
+      <guid>https://walse.cz/opera/19990615-sf-rheingold/</guid>
       <description>Der Ring des Nibelungen</description>
     </item>
     <item>
       <title>Tristan und Isolde</title>
-      <link>https://walse.cz/opera/1998-11-06-sf-tristan/</link>
+      <link>https://walse.cz/opera/19981106-sf-tristan/</link>
       <pubDate>Fri, 06 Nov 1998 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/1998-11-06-sf-tristan/</guid>
+      <guid>https://walse.cz/opera/19981106-sf-tristan/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -122,12 +122,12 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-2.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-4.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-5.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-6.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19981106-sf-tristan/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19981106-sf-tristan/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19981106-sf-tristan/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19981106-sf-tristan/images/photo-4.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19981106-sf-tristan/images/photo-5.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19981106-sf-tristan/images/photo-6.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
