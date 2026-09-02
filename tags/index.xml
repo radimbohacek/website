@@ -9,91 +9,273 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.163.3</generator>
+    <generator>Hugo -- 0.165.0</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Dec 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bayreuth</title>
-      <link>https://walse.cz/tags/bayreuth/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/bayreuth/</guid>
+      <title>Debussy</title>
+      <link>https://walse.cz/tags/debussy/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/debussy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Franck</title>
+      <link>https://walse.cz/tags/franck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/franck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Komorní</title>
+      <link>https://walse.cz/tags/komorn%C3%AD/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/komorn%C3%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Koncert</title>
+      <link>https://walse.cz/tags/koncert/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/koncert/</guid>
       <description></description>
     </item>
     <item>
       <title>Opera</title>
       <link>https://walse.cz/tags/opera/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/opera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prague Sounds</title>
+      <link>https://walse.cz/tags/prague-sounds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/prague-sounds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reich</title>
+      <link>https://walse.cz/tags/reich/</link>
+      <pubDate>Tue, 01 Mar 1994 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/reich/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hry O Marii</title>
+      <link>https://walse.cz/tags/hry-o-marii/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/hry-o-marii/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Martinů</title>
+      <link>https://walse.cz/tags/martin%C5%AF/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/martin%C5%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ND Brno</title>
+      <link>https://walse.cz/tags/nd-brno/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/nd-brno/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glass</title>
+      <link>https://walse.cz/tags/glass/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/glass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berlin</title>
+      <link>https://walse.cz/tags/berlin/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/berlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strauss</title>
+      <link>https://walse.cz/tags/strauss/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/strauss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thielemann</title>
+      <link>https://walse.cz/tags/thielemann/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/thielemann/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Altinoglu</title>
+      <link>https://walse.cz/tags/altinoglu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/altinoglu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bartok</title>
+      <link>https://walse.cz/tags/bartok/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/bartok/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blaubarts</title>
+      <link>https://walse.cz/tags/blaubarts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/blaubarts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wiener Staatsoper</title>
+      <link>https://walse.cz/tags/wiener-staatsoper/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/wiener-staatsoper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berliner Philharmoniker</title>
+      <link>https://walse.cz/tags/berliner-philharmoniker/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/berliner-philharmoniker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dean</title>
+      <link>https://walse.cz/tags/dean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/dean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bruckner</title>
+      <link>https://walse.cz/tags/bruckner/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/bruckner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deutsche Oper Berlin</title>
+      <link>https://walse.cz/tags/deutsche-oper-berlin/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/deutsche-oper-berlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engel</title>
+      <link>https://walse.cz/tags/engel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/engel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stockhausen</title>
+      <link>https://walse.cz/tags/stockhausen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/stockhausen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brahms</title>
+      <link>https://walse.cz/tags/brahms/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/brahms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gilbert</title>
+      <link>https://walse.cz/tags/gilbert/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/gilbert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NDR</title>
+      <link>https://walse.cz/tags/ndr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/ndr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LSO</title>
+      <link>https://walse.cz/tags/lso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/lso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pappano</title>
+      <link>https://walse.cz/tags/pappano/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/pappano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bayreuth</title>
+      <link>https://walse.cz/tags/bayreuth/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/bayreuth/</guid>
       <description></description>
     </item>
     <item>
       <title>Rienzi</title>
       <link>https://walse.cz/tags/rienzi/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/rienzi/</guid>
       <description></description>
     </item>
     <item>
       <title>Wagner</title>
       <link>https://walse.cz/tags/wagner/</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/wagner/</guid>
       <description></description>
     </item>
     <item>
       <title>Bayerische Staatsoper Munchen</title>
       <link>https://walse.cz/tags/bayerische-staatsoper-munchen/</link>
-      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/bayerische-staatsoper-munchen/</guid>
       <description></description>
     </item>
     <item>
       <title>Die Walkure</title>
       <link>https://walse.cz/tags/die-walkure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/die-walkure/</guid>
       <description></description>
     </item>
     <item>
       <title>Jurowski</title>
       <link>https://walse.cz/tags/jurowski/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/jurowski/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Berlin</title>
-      <link>https://walse.cz/tags/berlin/</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/berlin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Debussy</title>
-      <link>https://walse.cz/tags/debussy/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/debussy/</guid>
       <description></description>
     </item>
     <item>
       <title>Don Carlo</title>
       <link>https://walse.cz/tags/don-carlo/</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/don-carlo/</guid>
       <description></description>
     </item>
     <item>
       <title>Pelleas Et Melisande</title>
       <link>https://walse.cz/tags/pelleas-et-melisande/</link>
-      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/pelleas-et-melisande/</guid>
       <description></description>
     </item>
     <item>
       <title>Verdi</title>
       <link>https://walse.cz/tags/verdi/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/verdi/</guid>
       <description></description>
     </item>
@@ -109,13 +291,6 @@
       <link>https://walse.cz/tags/hannigan/</link>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/hannigan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Koncert</title>
-      <link>https://walse.cz/tags/koncert/</link>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/koncert/</guid>
       <description></description>
     </item>
     <item>
@@ -168,24 +343,10 @@
       <description></description>
     </item>
     <item>
-      <title>Strauss</title>
-      <link>https://walse.cz/tags/strauss/</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/strauss/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Quartet</title>
       <link>https://walse.cz/tags/quartet/</link>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/quartet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Komorní</title>
-      <link>https://walse.cz/tags/komorn%C3%AD/</link>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/komorn%C3%AD/</guid>
       <description></description>
     </item>
     <item>
@@ -329,13 +490,6 @@
       <description></description>
     </item>
     <item>
-      <title>Deutsche Oper Berlin</title>
-      <link>https://walse.cz/tags/deutsche-oper-berlin/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/deutsche-oper-berlin/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>MET</title>
       <link>https://walse.cz/tags/met/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
@@ -406,31 +560,10 @@
       <description></description>
     </item>
     <item>
-      <title>Bruckner</title>
-      <link>https://walse.cz/tags/bruckner/</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/bruckner/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Symphony</title>
       <link>https://walse.cz/tags/symphony/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/symphony/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Brahms</title>
-      <link>https://walse.cz/tags/brahms/</link>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/brahms/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Thielemann</title>
-      <link>https://walse.cz/tags/thielemann/</link>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/thielemann/</guid>
       <description></description>
     </item>
     <item>
@@ -452,13 +585,6 @@
       <link>https://walse.cz/tags/beethoven-mozart/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/beethoven-mozart/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gilbert</title>
-      <link>https://walse.cz/tags/gilbert/</link>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/gilbert/</guid>
       <description></description>
     </item>
     <item>
@@ -497,13 +623,6 @@
       <description></description>
     </item>
     <item>
-      <title>Pappano</title>
-      <link>https://walse.cz/tags/pappano/</link>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/pappano/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Mahler</title>
       <link>https://walse.cz/tags/mahler/</link>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
@@ -529,13 +648,6 @@
       <link>https://walse.cz/tags/kissin/</link>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/kissin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bartok</title>
-      <link>https://walse.cz/tags/bartok/</link>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/bartok/</guid>
       <description></description>
     </item>
     <item>
@@ -599,13 +711,6 @@
       <link>https://walse.cz/tags/barenboim/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/barenboim/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Berliner Philharmoniker</title>
-      <link>https://walse.cz/tags/berliner-philharmoniker/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/berliner-philharmoniker/</guid>
       <description></description>
     </item>
     <item>
@@ -707,13 +812,6 @@
       <description></description>
     </item>
     <item>
-      <title>Glass</title>
-      <link>https://walse.cz/tags/glass/</link>
-      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/glass/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Komische Oper Berlin</title>
       <link>https://walse.cz/tags/komische-oper-berlin/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
@@ -770,27 +868,6 @@
       <description></description>
     </item>
     <item>
-      <title>Hry O Marii</title>
-      <link>https://walse.cz/tags/hry-o-marii/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/hry-o-marii/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Martinů</title>
-      <link>https://walse.cz/tags/martin%C5%AF/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/martin%C5%AF/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ND Brno</title>
-      <link>https://walse.cz/tags/nd-brno/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/nd-brno/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Palestrina</title>
       <link>https://walse.cz/tags/palestrina/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
@@ -802,13 +879,6 @@
       <link>https://walse.cz/tags/pfitzner/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/pfitzner/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wiener Staatsoper</title>
-      <link>https://walse.cz/tags/wiener-staatsoper/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/wiener-staatsoper/</guid>
       <description></description>
     </item>
     <item>
@@ -1936,13 +2006,6 @@
       <link>https://walse.cz/tags/tilson-thomas/</link>
       <pubDate>Fri, 08 Apr 1994 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/tilson-thomas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reich</title>
-      <link>https://walse.cz/tags/reich/</link>
-      <pubDate>Tue, 01 Mar 1994 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/reich/</guid>
       <description></description>
     </item>
     <item>
